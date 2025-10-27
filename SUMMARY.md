@@ -3,8 +3,8 @@
 ## INTRODUCTION & OVERVIEW
 
 * [Introduction](introduction-overview/introduction.md)
-* [What is DEXGO?](introduction-overview/what-is-dexgo.md)
-* [Why DEXGO is Different?](introduction-overview/why-dexgo-is-different.md)
+* [What is DecNect?](introduction-overview/what-is-decnect.md)
+* [Why DecNect is Different?](introduction-overview/why-decnect-is-different.md)
 * [Ecosystem Vision](introduction-overview/ecosystem-vision.md)
 
 ## CORE FEATURES
@@ -34,23 +34,23 @@
 
 ## FOR PROJECTS & DEVELOPERS
 
-* [Why Build on DEXGO?](for-projects-developers/why-build-on-dexgo.md)
+* [Why Build on DecNect?](for-projects-developers/why-build-on-decnect.md)
 * [API & SDK Documentation](for-projects-developers/api-sdk-documentation.md)
 * [Setting Up a Project Space](for-projects-developers/setting-up-project-space.md)
 * [Customizing Your Experience](for-projects-developers/customizing-your-experience.md)
 
-## THE DEXGO TOKEN ($DEXGO)
+## THE DECNECT TOKEN ($DECNECT)
 
-* [$DEXGO Token PreLaunch](the-dexgo-token/dexgo-token-prelaunch.md)
-* [$DEXGO Token Utility](the-dexgo-token/dexgo-token-utility.md)
-* [Tokenomics & Revenue Model](the-dexgo-token/tokenomics-revenue-model.md)
-* [How to Acquire $DEXGO](the-dexgo-token/how-to-acquire-dexgo.md)
-* [Staking & Rewards](the-dexgo-token/staking-rewards.md)
+* [$DECNECT Token PreLaunch](the-decnect-token/decnect-token-prelaunch.md)
+* [$DECNECT Token Utility](the-decnect-token/decnect-token-utility.md)
+* [Tokenomics & Revenue Model](the-decnect-token/tokenomics-revenue-model.md)
+* [How to Acquire $DECNECT](the-decnect-token/how-to-acquire-decnect.md)
+* [Staking & Rewards](the-decnect-token/staking-rewards.md)
 
-## THE DEXGO REVENUE MODEL
+## THE DECNECT REVENUE MODEL
 
-* [$DEXGO Transaction Fees](the-dexgo-revenue-model/dexgo-transaction-fees.md)
-* [Platform-Generated Revenue Streams](the-dexgo-revenue-model/platform-generated-revenue-streams.md)
+* [$DECNECT Transaction Fees](the-decnect-revenue-model/decnect-transaction-fees.md)
+* [Platform-Generated Revenue Streams](the-decnect-revenue-model/platform-generated-revenue-streams.md)
 
 ## SUPPORT & COMMUNITY
 

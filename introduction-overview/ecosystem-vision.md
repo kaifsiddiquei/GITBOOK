@@ -1,18 +1,18 @@
 # Ecosystem Vision
 
-DEXGO's ecosystem vision extends far beyond a single platform—we're building the infrastructure for a new era of digital communication where AI and Web3 technologies work in harmony to create unprecedented value for users, developers, and the broader decentralized community.
+DecNect's ecosystem vision extends far beyond a single platform—we're building the infrastructure for a new era of digital communication where AI and Web3 technologies work in harmony to create unprecedented value for users, developers, and the broader decentralized community.
 
-## 🌐 The DEXGO Ecosystem Architecture
+## 🌐 The DecNect Ecosystem Architecture
 
 ### Core Platform Layer
-The foundation of our ecosystem is the DEXGO platform itself, providing:
+The foundation of our ecosystem is the DecNect platform itself, providing:
 - **Communication Infrastructure**: High-quality voice, video, and text communication
 - **AI Services**: Advanced AI capabilities accessible to all users
 - **Web3 Integration**: Seamless blockchain connectivity and wallet functionality
 - **Developer APIs**: Comprehensive tools for ecosystem builders
 
 ### Token Economy Layer
-The $DEXGO token serves as the economic backbone of our ecosystem:
+The $DECNECT token serves as the economic backbone of our ecosystem:
 - **Platform Utility**: Powering transactions, premium features, and governance
 - **Reward Distribution**: Incentivizing participation and contribution
 - **Staking Mechanisms**: Providing passive income opportunities

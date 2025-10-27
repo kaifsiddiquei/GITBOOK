@@ -1,11 +1,11 @@
-# Why DEXGO is Different?
+# Why DecNect is Different?
 
-DEXGO stands apart from traditional communication platforms and even other Web3 projects through its unique combination of advanced AI capabilities, true Web3 integration, and user-centric design. Here's what makes DEXGO truly revolutionary:
+DecNect stands apart from traditional communication platforms and even other Web3 projects through its unique combination of advanced AI capabilities, true Web3 integration, and user-centric design. Here's what makes DecNect truly revolutionary:
 
 ## 🚀 Revolutionary AI Integration
 
 ### Beyond Basic AI Features
-While other platforms offer simple chatbots or basic translation, DEXGO provides:
+While other platforms offer simple chatbots or basic translation, DecNect provides:
 
 - **Intelligent Context Awareness**: AI that understands Web3 terminology and concepts
 - **Multi-Modal AI**: Processing text, voice, and visual content seamlessly
@@ -13,9 +13,10 @@ While other platforms offer simple chatbots or basic translation, DEXGO provides
 - **Automated Workflows**: Smart automation for giveaways, community management, and engagement
 
 ### Real-Time Intelligence
-- Instant auto-translation that preserves context and meaning
-- AI assistant that can interact with blockchain data and smart contracts
-- Dynamic content optimization based on audience engagement patterns
+- **Instant Auto-Translation**: 50+ languages with context preservation
+- **AI Assistant**: Can interact with blockchain data and smart contracts
+- **Dynamic Content Optimization**: Based on audience engagement patterns
+- **Interactive 3D Models**: Visual responses to questions
 
 ## 🔐 True Web3 Native Design
 
@@ -31,11 +32,12 @@ Unlike platforms that simply add Web3 features as an afterthought:
 - **Zero-Knowledge Architecture**: Your data remains private even while using AI features
 - **User-Controlled Data**: You decide what data to share and with whom
 - **Encrypted Communications**: End-to-end encryption with blockchain verification
+- **Anonymous Login**: Fully anonymous and secure, no centralized accounts
 
 ## 💡 Unique Value Propositions
 
 ### 1. AI + Web3 Synergy
-DEXGO is the first platform to truly integrate AI capabilities with Web3 principles, creating new possibilities for:
+DecNect is the first platform to truly integrate AI capabilities with Web3 principles, creating new possibilities for:
 - Smart contract interactions through natural language
 - AI-powered DeFi insights and recommendations
 - Automated Web3 workflow management
@@ -77,8 +79,8 @@ DEXGO is the first platform to truly integrate AI capabilities with Web3 princip
 
 ## 🎯 Competitive Advantages
 
-| Feature | Traditional Platforms | Other Web3 Platforms | DEXGO |
-|---------|---------------------|---------------------|-------|
+| Feature | Traditional Platforms | Other Web3 Platforms | DecNect |
+|---------|---------------------|---------------------|---------|
 | AI Integration | Basic/Limited | Minimal | Advanced & Native |
 | Web3 Features | None/Add-on | Basic | Fully Integrated |
 | Privacy | Centralized Control | Partial | Complete User Control |
@@ -87,8 +89,8 @@ DEXGO is the first platform to truly integrate AI capabilities with Web3 princip
 
 ## The Bottom Line
 
-DEXGO isn't just another communication platform—it's the foundation for the next generation of digital interaction. By combining cutting-edge AI with true Web3 principles, we're creating a platform that's not only more powerful and secure than existing solutions, but also more aligned with the decentralized future we're all building toward.
+DecNect isn't just another communication platform—it's the foundation for the next generation of digital interaction. By combining cutting-edge AI with true Web3 principles, we're creating a platform that's not only more powerful and secure than existing solutions, but also more aligned with the decentralized future we're all building toward.
 
 ---
 
-*Ready to explore our ecosystem vision? Continue to learn about how DEXGO is shaping the future of digital communication.*
+*Ready to explore our ecosystem vision? Continue to learn about how DecNect is shaping the future of digital communication.*
