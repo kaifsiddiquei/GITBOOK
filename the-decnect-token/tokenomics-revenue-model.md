@@ -30,49 +30,163 @@ DecNect's tokenomics and revenue model are designed to create a sustainable, sel
 
 </div>
 
+# DecNect Tokenomics & Revenue Model
+
+<div align="center">
+
+![Tokenomics](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Tokenomics)
+
+# Sustainable Token Economics
+
+**Building Long-Term Value Through Strategic Tokenomics**
+
+</div>
+
+---
+
+## Overview
+
+DecNect's tokenomics and revenue model are designed to create a sustainable, self-reinforcing ecosystem that benefits all participants while ensuring long-term platform growth and stability.
+
 ## Token Supply Structure
 
-### 📊 Supply Information
-
-<div align="center">
-
+### Supply Information
 | **Specification** | **Details** | **Status** |
 |-------------------|-------------|------------|
-| **Total Supply** | TBA | 🔄 To be announced |
-| **Circulating Supply** | TBA | 🔄 To be announced |
-| **Locked Supply** | TBA | 🔄 To be announced |
-| **Burned Supply** | TBA | 🔄 To be announced |
+| **Total Supply** | TBA | To be announced |
+| **Circulating Supply** | TBA | To be announced |
+| **Locked Supply** | TBA | To be announced |
+| **Burned Supply** | TBA | To be announced |
 
-</div>
-
-### 📈 Supply Distribution
-
-<div align="center">
-
+### Supply Distribution
 | **Category** | **Percentage** | **Status** | **Details** |
 |--------------|----------------|------------|-------------|
-| **Community Rewards** | TBA | 🔄 To be decided | Community incentives and rewards |
-| **Team & Advisors** | TBA | 🔄 To be decided | Team compensation and advisor rewards |
-| **Ecosystem Development** | TBA | 🔄 To be decided | Platform development and growth |
-| **Public Sale** | TBA | 🔄 To be decided | Public token sale allocation |
-| **Liquidity Pool** | TBA | 🔄 To be decided | Exchange liquidity provision |
-| **Reserve Fund** | TBA | 🔄 To be decided | Future development and reserves |
+| **Community Rewards** | TBA | To be decided | Community incentives and rewards |
+| **Team & Advisors** | TBA | To be decided | Team compensation and advisor rewards |
+| **Ecosystem Development** | TBA | To be decided | Platform development and growth |
+| **Public Sale** | TBA | To be decided | Public token sale allocation |
+| **Liquidity Pool** | TBA | To be decided | Exchange liquidity provision |
+| **Reserve Fund** | TBA | To be decided | Future development and reserves |
 
-</div>
+## Vesting Schedule
 
-### 🔒 Vesting Schedule
+### TGE and Vesting Structure
+| **Phase** | **Percentage** | **Timeline** | **Details** |
+|-----------|----------------|--------------|-------------|
+| **TGE** | 10% | Launch | Initial token generation event |
+| **Cliff** | 0% | 2 months | No tokens released during cliff |
+| **Round 1** | 15% | Month 3 | First vesting release |
+| **Round 2** | 15% | Month 4 | Second vesting release |
+| **Round 3** | 15% | Month 5 | Third vesting release |
+| **Round 4** | 15% | Month 6 | Fourth vesting release |
+| **Round 5** | 15% | Month 7 | Fifth vesting release |
+| **Round 6** | 15% | Month 8 | Final vesting release |
 
-<div align="center">
-
+### Vesting Categories
 | **Category** | **Vesting Period** | **Cliff Period** | **Status** |
 |--------------|-------------------|------------------|------------|
-| **Team & Advisors** | TBA | TBA | 🔄 To be announced |
-| **Ecosystem Development** | TBA | TBA | 🔄 To be announced |
-| **Community Rewards** | TBA | N/A | 🔄 To be announced |
-| **Public Sale** | Immediate | N/A | ✅ Confirmed |
-| **Liquidity Pool** | Immediate | N/A | ✅ Confirmed |
+| **Team & Advisors** | 8 months | 2 months | To be announced |
+| **Ecosystem Development** | 8 months | 2 months | To be announced |
+| **Public Sale** | Immediate | N/A | Confirmed |
+| **Community Rewards** | 8 months | N/A | To be announced |
+| **Liquidity Pool** | Immediate | N/A | Confirmed |
 
-</div>
+## Revenue Model
+
+### Platform Revenue Streams
+
+#### 1. Transaction & Platform Fees
+| **Service** | **Fee Type** | **Revenue Share** |
+|-------------|--------------|------------------|
+| **Live/AMA Gifting** | Transaction fee on gifts | Platform revenue |
+| **In-App Wallet Swaps** | Nominal swap fee | Platform revenue |
+| **Super Chats** | Message boost fees | Platform revenue |
+| **Premium Features** | Subscription fees | Platform revenue |
+
+#### 2. Premium Subscription Plans
+| **Tier** | **Features** | **Revenue** |
+|----------|--------------|------------|
+| **Basic** | Standard features | Free |
+| **Premium** | HD streaming, premium emojis | Monthly fee |
+| **Pro** | Advanced AI tools, ad-free | Higher monthly fee |
+| **Enterprise** | Custom features, analytics | Custom pricing |
+
+#### 3. Web3 Ads Revenue
+- **Web3-native ads** integrated into streams and AMAs
+- **Revenue sharing** between hosts and platform
+- **High-value Web3 ad market** targeting
+
+### Token Economics
+
+#### Buy/Sell Fees
+| **Transaction Type** | **Fee Percentage** | **Purpose** |
+|---------------------|-------------------|-------------|
+| **Token Purchase** | 5% | Platform revenue and rewards |
+| **Token Sale** | 5% | Platform revenue and rewards |
+
+#### Revenue Distribution
+| **Recipient** | **Percentage** | **Purpose** |
+|---------------|----------------|-------------|
+| **Creators & Hosts** | TBA | Earnings from gifts, ads, events |
+| **Platform Growth** | TBA | Development and AI upgrades |
+| **Token Holders** | TBA | Staking rewards and profit sharing |
+| **Buyback Fund** | TBA | Token buybacks and burns |
+
+## Token Utility
+
+### Platform Functions
+- **Premium Access**: Unlock premium features
+- **Governance**: Vote on platform proposals
+- **Staking Rewards**: Earn passive income
+- **Transaction Fees**: Reduced fees for holders
+- **Reward Distribution**: Community incentives
+
+### Value Accrual Mechanisms
+- **Token Buybacks**: Regular buybacks using platform revenue
+- **Token Burns**: Deflationary burn mechanisms
+- **Staking Rewards**: Profit sharing for stakers
+- **Premium Benefits**: Free premium features for stakers
+- **Governance Rights**: Enhanced voting power
+
+## Ecosystem Vision
+
+### For Users
+- **Secure Communication**: Private, encrypted interactions
+- **Monetization Opportunities**: Earn through participation
+- **AI-Enhanced Experience**: Advanced AI tools and features
+- **Web3 Integration**: Seamless crypto integration
+
+### For Creators & Communities
+- **All-in-One Hub**: Connect, earn, and scale
+- **Revenue Sharing**: Earn from gifts, ads, and events
+- **AI Tools**: Advanced moderation and analytics
+- **Decentralized Control**: No centralized restrictions
+
+### For Investors
+- **Transparent Revenue Sharing**: Clear profit distribution
+- **Token Appreciation**: Buybacks and burns
+- **Staking Rewards**: Passive income opportunities
+- **Long-term Value**: Sustainable tokenomics
+
+## Important Notes
+
+### Disclaimer
+- **Pitch Document**: This is a pitch document, not final specifications
+- **Product Status**: Core product is live and functional
+- **Subject to Change**: All details subject to final implementation
+- **Investment Risk**: Cryptocurrency investments carry risk
+- **Due Diligence**: Conduct thorough research before investing
+
+### Future Developments
+- **Token Launch**: December 2024 - January 2025
+- **Exchange Listings**: Q1 2025
+- **Staking Program**: Q1 2025
+- **Governance DAO**: Q2 2025
+- **Ecosystem Expansion**: Ongoing
+
+---
+
+*Continue to learn more about DecNect's platform features and capabilities.*
 
 ## Revenue Streams
 

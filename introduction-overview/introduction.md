@@ -14,27 +14,34 @@
 
 ## Overview
 
-DecNect is a next-generation communication platform that combines artificial intelligence with Web3 technology to create a decentralized, intelligent, and secure ecosystem for digital interaction.
+DecNect is a next-generation, AI-powered, decentralized communication and engagement platform designed for meetings, AMA sessions, live streaming, private/group calls, and Web3-native interactions. Unlike traditional platforms such as Telegram or other centralized services, DecNect combines AI innovation with blockchain security to deliver a smarter, more private, and user-first ecosystem.
+
+Our mission is to transform the way communities, creators, and Web3 projects connect—providing powerful AI tools, seamless multi-chain crypto integration, and a fair revenue-sharing model that benefits both users and investors.
 
 ## Key Features
 
 ### AI Integration
 - **Real-time Translation**: 50+ languages with cultural intelligence
-- **Smart Moderation**: AI-powered content filtering and engagement
-- **Interactive Assistant**: AI bot for enhanced user experience
-- **Analytics**: AI-driven insights and user behavior analysis
+- **AI-powered Moderation**: Automatic question detection during AMA sessions
+- **Instant AI Assistant**: Charts, visuals, and data explanations
+- **Interactive 3D Models**: Visual question answering
+- **AI-driven Voice Modulation**: Real-time subtitles for accessibility
+- **AI-based Giveaway Selection**: Transparent winner selection
+- **Advanced Analytics**: Host and community manager insights
 
 ### Web3 Native
-- **Decentralized Identity**: Web3 login with complete privacy
-- **Multi-chain Support**: Compatible with major blockchain networks
-- **Built-in Wallet**: Native crypto integration
-- **Token Economy**: $DECNECT token for platform interactions
+- **Web3 Login**: Fully anonymous, no centralized accounts
+- **Native Web3 Wallet**: Seamless swaps, transfers, and rewards
+- **Multi-chain Support**: Compatible with all major blockchains
+- **Direct On-platform Rewards**: Giveaways and gifts sent directly to wallets
+- **Blockchain-level Security**: Ensuring user privacy and asset safety
 
-### Communication Tools
-- **Private Calls**: Secure one-to-one communication
-- **Group Meetings**: Enhanced collaboration spaces
-- **AMA Sessions**: AI-enhanced Q&A sessions
-- **Live Streaming**: Advanced streaming capabilities
+### Core Offerings
+- **Private one-to-one calls & secure group meetings**
+- **AMA sessions with AI-enhanced engagement tools**
+- **Interactive live streams with real-time gifting & rewards**
+- **In-built Web3 wallet with swaps and transfers**
+- **Token distribution system for giveaways & rewards**
 
 ## Technology Stack
 
@@ -51,6 +58,20 @@ DecNect is a next-generation communication platform that combines artificial int
 2. **Explore Features**: Discover AI-powered capabilities
 3. **Join Community**: Connect with users and projects
 4. **Earn Rewards**: Participate and earn $DECNECT tokens
+
+## Revenue Model
+
+### Platform Revenue Streams
+- **Transaction Fees**: Live/AMA gifting, in-app wallet swaps, super chats
+- **Premium Subscriptions**: HD streaming, premium emojis, advanced AI tools
+- **Web3 Ads**: Revenue sharing between hosts and platform
+- **Token Economics**: 5% buy/sell fees for platform revenue and rewards
+
+### Revenue Distribution
+- **Creators & Hosts**: Earn from gifts, ads, and sponsored events
+- **Platform Growth**: Reinvestment in development and AI upgrades
+- **Token Holders**: Staking rewards and profit sharing
+- **Buyback Fund**: Token buybacks and burns for long-term value
 
 ## Target Users
 
