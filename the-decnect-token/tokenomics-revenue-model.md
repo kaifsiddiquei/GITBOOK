@@ -1,31 +1,78 @@
-# Tokenomics & Revenue Model
+# DecNect Tokenomics & Revenue Model
+
+<div align="center">
+
+![Tokenomics](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Tokenomics)
+
+# Sustainable Token Economics
+
+**Building Long-Term Value Through Strategic Tokenomics**
+
+</div>
+
+---
+
+## 🌟 Tokenomics Overview
 
 DecNect's tokenomics and revenue model are designed to create a sustainable, self-reinforcing ecosystem that benefits all participants while ensuring long-term platform growth and stability. This comprehensive analysis covers the economic structure, revenue streams, and token distribution mechanisms.
 
-## Tokenomics Overview
+### 🎯 Core Principles
 
-### Token Supply Structure
-- **Total Supply**: 1,000,000,000 $DecNect tokens
-- **Circulating Supply**: Gradually increasing through distribution
-- **Locked Supply**: Team and ecosystem tokens with vesting
-- **Burned Supply**: Tokens burned through deflationary mechanisms
+<div align="center">
 
-### Supply Distribution
-```
-Community Rewards:     40% (400M tokens)
-Team & Advisors:       20% (200M tokens)
-Ecosystem Development: 15% (150M tokens)
-Public Sale:           10% (100M tokens)
-Liquidity Pool:        10% (100M tokens)
-Reserve Fund:           5% (50M tokens)
-```
+| **Principle** | **Description** | **Implementation** |
+|---------------|-----------------|-------------------|
+| **Deflationary** | Token burn mechanisms | Regular token burns |
+| **Utility-Driven** | Real-world utility and use cases | Platform integration |
+| **Community-Owned** | Community governance and control | DAO governance |
+| **Sustainable** | Long-term sustainability focus | Balanced tokenomics |
+| **Scalable** | Designed for mass adoption | Multi-chain architecture |
 
-### Vesting Schedule
-- **Team & Advisors**: 4-year vesting with 1-year cliff
-- **Ecosystem Development**: 3-year vesting with 6-month cliff
-- **Community Rewards**: Distributed over 5 years
-- **Public Sale**: Immediate unlock
-- **Liquidity Pool**: Immediate unlock for market making
+</div>
+
+## Token Supply Structure
+
+### 📊 Supply Information
+
+<div align="center">
+
+| **Specification** | **Details** | **Status** |
+|-------------------|-------------|------------|
+| **Total Supply** | TBA | 🔄 To be announced |
+| **Circulating Supply** | TBA | 🔄 To be announced |
+| **Locked Supply** | TBA | 🔄 To be announced |
+| **Burned Supply** | TBA | 🔄 To be announced |
+
+</div>
+
+### 📈 Supply Distribution
+
+<div align="center">
+
+| **Category** | **Percentage** | **Status** | **Details** |
+|--------------|----------------|------------|-------------|
+| **Community Rewards** | TBA | 🔄 To be decided | Community incentives and rewards |
+| **Team & Advisors** | TBA | 🔄 To be decided | Team compensation and advisor rewards |
+| **Ecosystem Development** | TBA | 🔄 To be decided | Platform development and growth |
+| **Public Sale** | TBA | 🔄 To be decided | Public token sale allocation |
+| **Liquidity Pool** | TBA | 🔄 To be decided | Exchange liquidity provision |
+| **Reserve Fund** | TBA | 🔄 To be decided | Future development and reserves |
+
+</div>
+
+### 🔒 Vesting Schedule
+
+<div align="center">
+
+| **Category** | **Vesting Period** | **Cliff Period** | **Status** |
+|--------------|-------------------|------------------|------------|
+| **Team & Advisors** | TBA | TBA | 🔄 To be announced |
+| **Ecosystem Development** | TBA | TBA | 🔄 To be announced |
+| **Community Rewards** | TBA | N/A | 🔄 To be announced |
+| **Public Sale** | Immediate | N/A | ✅ Confirmed |
+| **Liquidity Pool** | Immediate | N/A | ✅ Confirmed |
+
+</div>
 
 ## Revenue Streams
 

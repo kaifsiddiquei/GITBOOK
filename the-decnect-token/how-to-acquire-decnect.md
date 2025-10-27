@@ -1,6 +1,34 @@
-# How to Acquire $DecNect
+# How to Acquire DecNect ($DECNECT)
 
-Acquiring $DecNect tokens is designed to be accessible through multiple channels, ensuring that users, developers, and community members can obtain tokens through various methods that align with their participation level and investment preferences. This comprehensive guide covers all available acquisition methods.
+<div align="center">
+
+![Acquire DecNect](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Acquire+DecNect)
+
+# Your Guide to Getting $DECNECT Tokens
+
+**Multiple Ways to Acquire and Earn DecNect Tokens**
+
+</div>
+
+---
+
+## 🌟 Overview
+
+Acquiring $DECNECT tokens is designed to be accessible through multiple channels, ensuring that users, developers, and community members can obtain tokens through various methods that align with their participation level and investment preferences. This comprehensive guide covers all available acquisition methods.
+
+### 🎯 Acquisition Methods
+
+<div align="center">
+
+| **Method** | **Availability** | **Status** | **Details** |
+|------------|------------------|------------|-------------|
+| **Public Sale** | Dec 2024 - Jan 2025 | ⏳ Scheduled | Direct token purchase |
+| **Exchange Trading** | Q1 2025 | 📋 Planned | Secondary market trading |
+| **Community Rewards** | Ongoing | 🔄 Active | Earn through participation |
+| **Staking Rewards** | Q1 2025 | 📋 Planned | Earn through staking |
+| **Referral Program** | Ongoing | 🔄 Active | Earn through referrals |
+
+</div>
 
 ## Primary Acquisition Methods
 

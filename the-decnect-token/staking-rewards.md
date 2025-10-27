@@ -1,4 +1,18 @@
-# Staking & Rewards
+# DecNect Staking Rewards
+
+<div align="center">
+
+![Staking Rewards](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Staking+Rewards)
+
+# Earn Passive Income with $DECNECT
+
+**Stake Your Tokens and Earn Rewards**
+
+</div>
+
+---
+
+## 🌟 Overview
 
 DecNect's staking and rewards system provides multiple opportunities for token holders to earn passive income while contributing to the platform's security and governance. Our comprehensive staking ecosystem offers flexible options with competitive rewards and enhanced benefits for participants.
 

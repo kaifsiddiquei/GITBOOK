@@ -1,4 +1,42 @@
-# $DECNECT Token PreLaunch
+# DecNect Token ($DECNECT) Prelaunch
+
+<div align="center">
+
+![DecNect Token](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=DECNECT+Token)
+
+# The Future of Web3 Communication Tokens
+
+**Launching December 2024 - January 2025**
+
+</div>
+
+---
+
+## 🚀 Token Launch Schedule
+
+### 📅 Official Launch Timeline
+
+<div align="center">
+
+| **Phase** | **Timeline** | **Status** | **Details** |
+|-----------|--------------|------------|-------------|
+| **Pre-Launch** | Q4 2024 | 🔄 In Progress | Community building and preparation |
+| **Token Launch** | Dec 2024 - Jan 2025 | ⏳ Scheduled | Official $DECNECT token launch |
+| **Exchange Listings** | Q1 2025 | 📋 Planned | Major exchange listings |
+| **Ecosystem Expansion** | Q1-Q2 2025 | 📋 Planned | Platform integration and adoption |
+
+</div>
+
+### 🎯 Launch Strategy
+
+- **📢 Announcement**: Official token details will be announced closer to launch date
+- **🌐 Community First**: Community members will have early access and benefits
+- **🔒 Security First**: Comprehensive security audits before launch
+- **📈 Gradual Rollout**: Phased launch to ensure stability and adoption
+
+---
+
+## 💎 About $DECNECT Token
 
 The $DECNECT token represents the cornerstone of the DecNect ecosystem, designed to power the next generation of AI-enhanced Web3 communication platforms. This prelaunch guide provides comprehensive information about the token, its utility, distribution, and how to participate in the upcoming launch.
 
@@ -12,29 +50,68 @@ $DECNECT is the native utility token of the DecNect platform, serving multiple f
 - **Staking Rewards**: Provide passive income through staking mechanisms
 
 ### Token Specifications
-- **Token Name**: DecNect
-- **Token Symbol**: $DECNECT
-- **Token Standard**: ERC-20 (Ethereum) with multi-chain support
-- **Total Supply**: 1,000,000,000 $DECNECT
-- **Decimals**: 18
-- **Contract Address**: TBD (Will be announced at launch)
+
+<div align="center">
+
+| **Specification** | **Details** | **Status** |
+|-------------------|-------------|------------|
+| **Token Name** | DecNect Token | ✅ Confirmed |
+| **Token Symbol** | $DECNECT | ✅ Confirmed |
+| **Blockchain** | Multi-chain (TBA) | 🔄 To be announced |
+| **Token Standard** | ERC-20 / BEP-20 | 🔄 To be announced |
+| **Total Supply** | TBA | 🔄 To be announced |
+| **Circulating Supply** | TBA | 🔄 To be announced |
+| **Decimals** | TBA | 🔄 To be announced |
+| **Contract Address** | TBA | 🔄 To be announced |
+
+</div>
+
+### 🏗️ Technical Features
+
+- **🔗 Multi-Chain Support**: Native support across multiple blockchain networks
+- **⚡ Fast Transactions**: Optimized for quick and efficient transactions
+- **🔒 Secure**: Built with enterprise-grade security standards
+- **🌐 Interoperable**: Seamless integration with existing Web3 infrastructure
+- **📱 Mobile Optimized**: Optimized for mobile and desktop applications
 
 ## Token Distribution
 
-### Allocation Breakdown
-- **Community Rewards**: 40% (400,000,000 $DECNECT)
-- **Team & Advisors**: 20% (200,000,000 $DECNECT)
-- **Ecosystem Development**: 15% (150,000,000 $DECNECT)
-- **Public Sale**: 10% (100,000,000 $DECNECT)
-- **Liquidity Pool**: 10% (100,000,000 $DECNECT)
-- **Reserve Fund**: 5% (50,000,000 $DECNECT)
+### 📊 Allocation Strategy
 
-### Vesting Schedule
-- **Team & Advisors**: 4-year vesting with 1-year cliff
-- **Ecosystem Development**: 3-year vesting with 6-month cliff
-- **Public Sale**: No vesting, immediate unlock
-- **Community Rewards**: Distributed over 5 years
-- **Liquidity Pool**: Immediate unlock for market making
+<div align="center">
+
+| **Allocation Category** | **Percentage** | **Status** | **Details** |
+|-------------------------|----------------|------------|-------------|
+| **Community Rewards** | TBA | 🔄 To be decided | Community incentives and rewards |
+| **Team & Advisors** | TBA | 🔄 To be decided | Team compensation and advisor rewards |
+| **Ecosystem Development** | TBA | 🔄 To be decided | Platform development and growth |
+| **Public Sale** | TBA | 🔄 To be decided | Public token sale allocation |
+| **Liquidity Pool** | TBA | 🔄 To be decided | Exchange liquidity provision |
+| **Reserve Fund** | TBA | 🔄 To be decided | Future development and reserves |
+
+</div>
+
+### 🔒 Vesting Schedule
+
+<div align="center">
+
+| **Category** | **Vesting Period** | **Cliff Period** | **Status** |
+|--------------|-------------------|------------------|------------|
+| **Team & Advisors** | TBA | TBA | 🔄 To be announced |
+| **Ecosystem Development** | TBA | TBA | 🔄 To be announced |
+| **Public Sale** | Immediate | N/A | ✅ Confirmed |
+| **Community Rewards** | TBA | N/A | 🔄 To be announced |
+| **Liquidity Pool** | Immediate | N/A | ✅ Confirmed |
+
+</div>
+
+### 🎯 Distribution Principles
+
+- **🌍 Community First**: Prioritize community rewards and incentives
+- **🔒 Fair Distribution**: Ensure fair and transparent distribution
+- **⚖️ Balanced Allocation**: Balance between different stakeholder groups
+- **🚀 Long-term Focus**: Focus on long-term ecosystem sustainability
+- **📈 Growth Oriented**: Allocate resources for ecosystem growth
 
 ## PreLaunch Activities
 
@@ -70,29 +147,38 @@ const whitelistRegistration = await fetch('/api/v1/token/whitelist', {
 
 ## Launch Timeline
 
-### Phase 1: Pre-Launch (Months 1-3)
-- **Community Building**: Build and grow community
-- **Whitelist Registration**: Open whitelist registration
-- **KYC Process**: Complete KYC verification
-- **Beta Testing**: Conduct beta testing with rewards
+### 📅 Updated Launch Schedule
 
-### Phase 2: Launch Preparation (Month 4)
-- **Final Testing**: Complete final testing and audits
-- **Marketing Campaign**: Launch marketing campaign
-- **Exchange Listings**: Secure exchange listings
-- **Launch Announcement**: Official launch announcement
+<div align="center">
 
-### Phase 3: Token Launch (Month 5)
-- **Public Sale**: Launch public token sale
-- **Exchange Trading**: Begin trading on exchanges
-- **Liquidity Provision**: Provide initial liquidity
-- **Community Distribution**: Begin community reward distribution
+| **Phase** | **Timeline** | **Status** | **Key Activities** |
+|-----------|--------------|------------|-------------------|
+| **Pre-Launch** | Q4 2024 | 🔄 In Progress | Community building and preparation |
+| **Token Launch** | Dec 2024 - Jan 2025 | ⏳ Scheduled | Official $DECNECT token launch |
+| **Exchange Listings** | Q1 2025 | 📋 Planned | Major exchange listings |
+| **Ecosystem Expansion** | Q1-Q2 2025 | 📋 Planned | Platform integration and adoption |
 
-### Phase 4: Post-Launch (Months 6+)
-- **Feature Rollout**: Rollout token utility features
-- **Governance Launch**: Launch governance mechanisms
-- **Staking Program**: Launch staking program
-- **Ecosystem Growth**: Focus on ecosystem growth
+</div>
+
+### 🎯 Launch Phases
+
+#### Phase 1: Pre-Launch (Q4 2024)
+- **🌐 Community Building**: Build and grow community
+- **📝 Whitelist Registration**: Open whitelist registration
+- **🔍 KYC Process**: Complete KYC verification
+- **🧪 Beta Testing**: Conduct beta testing with rewards
+
+#### Phase 2: Token Launch (Dec 2024 - Jan 2025)
+- **🚀 Official Launch**: Launch $DECNECT token
+- **💰 Public Sale**: Begin public token sale
+- **📈 Exchange Trading**: Begin trading on exchanges
+- **💧 Liquidity Provision**: Provide initial liquidity
+
+#### Phase 3: Post-Launch (Q1 2025)
+- **🏛️ Governance Launch**: Launch governance mechanisms
+- **💎 Staking Program**: Launch staking program
+- **🔧 Feature Rollout**: Rollout token utility features
+- **🌍 Ecosystem Growth**: Focus on ecosystem growth
 
 ## How to Participate
 

@@ -1,6 +1,20 @@
-# $DecNect Token Utility
+# DecNect Token ($DECNECT) Utility
 
-The $DecNect token serves as the backbone of the DecNect ecosystem, providing multiple utility functions that enhance user experience, enable governance participation, and create economic incentives for platform growth. This comprehensive guide explores all the ways $DecNect tokens can be used within the platform.
+<div align="center">
+
+![Token Utility](https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Token+Utility)
+
+# Powering the DecNect Ecosystem
+
+**Multi-Purpose Utility Token for Web3 Communication**
+
+</div>
+
+---
+
+## 🌟 Token Overview
+
+The $DECNECT token serves as the backbone of the DecNect ecosystem, providing multiple utility functions that enhance user experience, enable governance participation, and create economic incentives for platform growth. This comprehensive guide explores all the ways $DECNECT tokens can be used within the platform.
 
 ## Core Utility Functions
 
