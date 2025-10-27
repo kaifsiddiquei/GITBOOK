@@ -47,6 +47,14 @@
 * [Monetization Guide](for-creators-users/monetization-guide.md)
 * [Engagement Tips](for-creators-users/engagement-tips.md)
 
+## FOR COLLABORATION
+
+* [Co-Hosting Events](for-collaboration/co-hosting-events.md)
+* [Cross-Promotion Strategies](for-collaboration/cross-promotion-strategies.md)
+* [Joint Projects & Collaborations](for-collaboration/joint-projects.md)
+* [Building Your Creator Team](for-collaboration/team-buildings.md)
+* [Networking Strategies](for-collaboration/networking-strategies.md)
+
 ## THE DECNECT TOKEN ($DECNECT)
 
 * [$DECNECT Token PreLaunch](the-decnect-token/decnect-token-prelaunch.md)
