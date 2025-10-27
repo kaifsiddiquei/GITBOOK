@@ -6,7 +6,7 @@
 
 # $DECNECT Token
 
-**Launching December 2024 - January 2025**
+**Launching Around December 2025 or January 2026**
 
 </div>
 
@@ -21,9 +21,9 @@ The $DECNECT token is the native utility token of the DecNect ecosystem, designe
 | **Phase** | **Timeline** | **Status** |
 |-----------|--------------|------------|
 | **Pre-Launch** | Q4 2024 | In Progress |
-| **Token Launch** | Dec 2024 - Jan 2025 | Scheduled |
-| **Exchange Listings** | Q1 2025 | Planned |
-| **Ecosystem Expansion** | Q1-Q2 2025 | Planned |
+| **Token Launch** | Dec 2025 - Jan 2026 | Scheduled |
+| **Exchange Listings** | Q1 2026 | Planned |
+| **Ecosystem Expansion** | Q1-Q2 2026 | Planned |
 
 ## Token Specifications
 

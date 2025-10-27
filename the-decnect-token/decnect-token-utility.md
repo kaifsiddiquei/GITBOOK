@@ -150,9 +150,9 @@ The $DECNECT token serves as the backbone of the DecNect ecosystem, providing mu
 - **Due Diligence**: Conduct thorough research before investing
 
 ### Future Developments
-- **Token Launch**: December 2024 - January 2025
-- **Staking Program**: Q1 2025
-- **Governance DAO**: Q2 2025
+- **Token Launch**: December 2025
+- **Staking Program**: Q1 2026
+- **Governance DAO**: Q2 2026
 - **Advanced Features**: Ongoing development
 - **Ecosystem Expansion**: Continuous growth
 
