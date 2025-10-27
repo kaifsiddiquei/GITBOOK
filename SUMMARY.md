@@ -39,6 +39,14 @@
 * [Setting Up a Project Space](for-projects-developers/setting-up-project-space.md)
 * [Customizing Your Experience](for-projects-developers/customizing-your-experience.md)
 
+## FOR CREATORS & USERS
+
+* [Getting Started Guide](for-creators-users/getting-started-guide.md)
+* [Creating Content on DecNect](for-creators-users/creating-content.md)
+* [Building Your Community](for-creators-users/building-your-community.md)
+* [Monetization Guide](for-creators-users/monetization-guide.md)
+* [Engagement Tips](for-creators-users/engagement-tips.md)
+
 ## THE DECNECT TOKEN ($DECNECT)
 
 * [$DECNECT Token PreLaunch](the-decnect-token/decnect-token-prelaunch.md)
