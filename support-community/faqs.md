@@ -1,21 +1,21 @@
 # FAQs
 
-DEXGO's Frequently Asked Questions (FAQs) provide comprehensive answers to the most common questions about the platform, its features, and how to get started. This section covers everything from basic platform usage to advanced features and troubleshooting.
+DecNect's Frequently Asked Questions (FAQs) provide comprehensive answers to the most common questions about the platform, its features, and how to get started. This section covers everything from basic platform usage to advanced features and troubleshooting.
 
 ## General Questions
 
-### What is DEXGO?
-DEXGO is a next-generation communication platform that seamlessly integrates artificial intelligence with Web3 technology. It provides AI-enhanced communication tools, Web3 native features, and a comprehensive ecosystem for users, developers, and projects.
+### What is DecNect?
+DecNect is a next-generation communication platform that seamlessly integrates artificial intelligence with Web3 technology. It provides AI-enhanced communication tools, Web3 native features, and a comprehensive ecosystem for users, developers, and projects.
 
-### How is DEXGO different from other platforms?
-DEXGO is the first platform to truly integrate AI capabilities with Web3 principles, offering:
+### How is DecNect different from other platforms?
+DecNect is the first platform to truly integrate AI capabilities with Web3 principles, offering:
 - **AI-Powered Features**: Advanced AI features built into the platform
 - **Web3 Native**: Built from the ground up for Web3
 - **Multi-Chain Support**: Support for multiple blockchain networks
 - **Community-Centric**: Community-driven platform development
 
-### Is DEXGO free to use?
-DEXGO offers a freemium model:
+### Is DecNect free to use?
+DecNect offers a freemium model:
 - **Basic Features**: Free access to basic platform features
 - **Premium Features**: Paid access to premium features
 - **AI Services**: Pay-per-use AI services
@@ -24,14 +24,14 @@ DEXGO offers a freemium model:
 ## Getting Started
 
 ### How do I create an account?
-1. Visit the DEXGO platform
+1. Visit the DecNect platform
 2. Click "Connect Wallet" or "Sign In"
 3. Select your preferred wallet
 4. Complete the connection process
 5. Set up your profile
 
 ### What wallets are supported?
-DEXGO supports a wide range of wallets:
+DecNect supports a wide range of wallets:
 - **Browser Extensions**: MetaMask, WalletConnect, Coinbase Wallet
 - **Mobile Wallets**: Trust Wallet, Rainbow, Argent
 - **Hardware Wallets**: Ledger, Trezor, KeepKey
@@ -46,21 +46,21 @@ KYC requirements depend on your usage:
 ## Platform Features
 
 ### What AI features are available?
-DEXGO offers comprehensive AI features:
+DecNect offers comprehensive AI features:
 - **Real-Time Translation**: Multi-language translation
 - **AI Assistant**: Intelligent assistant for Web3
 - **AI Analytics**: Advanced analytics and insights
 - **Giveaway Automation**: Automated giveaway management
 
 ### How does the Web3 integration work?
-DEXGO's Web3 integration includes:
+DecNect's Web3 integration includes:
 - **Multi-Chain Support**: Support for multiple blockchain networks
 - **Built-in Wallet**: Integrated Web3 wallet functionality
 - **DeFi Integration**: Access to DeFi protocols
 - **NFT Support**: NFT creation and management
 
 ### What communication features are available?
-DEXGO provides advanced communication features:
+DecNect provides advanced communication features:
 - **Meetings & Group Calls**: High-quality video and audio calls
 - **AMA Sessions**: Interactive Q&A sessions
 - **Live Streams**: Live streaming capabilities
@@ -68,22 +68,22 @@ DEXGO provides advanced communication features:
 
 ## Token and Economics
 
-### What is the $DEXGO token?
-$DEXGO is the native utility token of the DEXGO platform, serving multiple functions:
+### What is the $DecNect token?
+$DecNect is the native utility token of the DecNect platform, serving multiple functions:
 - **Platform Utility**: Power transactions and premium features
 - **Governance Rights**: Enable community governance
 - **Reward Mechanism**: Reward users for participation
 - **Staking Rewards**: Provide passive income through staking
 
-### How can I acquire $DEXGO tokens?
-You can acquire $DEXGO tokens through:
+### How can I acquire $DecNect tokens?
+You can acquire $DecNect tokens through:
 - **Public Sale**: Participate in the public token sale
 - **Exchange Trading**: Trade on centralized and decentralized exchanges
 - **Community Rewards**: Earn tokens through community participation
 - **Staking Rewards**: Earn tokens through staking
 
 ### What are the staking rewards?
-DEXGO offers multiple staking options:
+DecNect offers multiple staking options:
 - **Platform Staking**: 5% APY for platform staking
 - **Governance Staking**: 3% APY for governance staking
 - **Liquidity Staking**: 7% APY for liquidity provision
@@ -92,21 +92,21 @@ DEXGO offers multiple staking options:
 ## Technical Questions
 
 ### What are the system requirements?
-DEXGO works on:
+DecNect works on:
 - **Web Browsers**: Chrome, Firefox, Safari, Edge
 - **Mobile Devices**: iOS and Android devices
 - **Desktop**: Windows, Mac, Linux
 - **Hardware**: Minimum 4GB RAM, stable internet connection
 
-### Is DEXGO secure?
-DEXGO implements comprehensive security measures:
+### Is DecNect secure?
+DecNect implements comprehensive security measures:
 - **Blockchain Security**: Security through blockchain technology
 - **Encryption**: End-to-end encryption for communications
 - **Privacy Protection**: Privacy-preserving technologies
 - **Regular Audits**: Regular security audits and assessments
 
 ### How does the AI work?
-DEXGO's AI system:
+DecNect's AI system:
 - **Machine Learning**: Uses advanced machine learning algorithms
 - **Natural Language Processing**: Processes natural language
 - **Real-Time Processing**: Real-time AI processing
@@ -138,21 +138,21 @@ Common solutions:
 ## Community and Support
 
 ### How can I join the community?
-You can join the DEXGO community through:
+You can join the DecNect community through:
 - **Discord**: Join our Discord server
 - **Telegram**: Join our Telegram group
 - **Twitter**: Follow us on Twitter
 - **Reddit**: Join our Reddit community
 
 ### How can I get help?
-DEXGO provides multiple support channels:
+DecNect provides multiple support channels:
 - **Help Center**: Comprehensive help center
 - **Community Forums**: Community support forums
 - **Live Chat**: Live chat support
 - **Support Tickets**: Submit support tickets
 
 ### How can I contribute to the platform?
-You can contribute to DEXGO through:
+You can contribute to DecNect through:
 - **Community Participation**: Active community participation
 - **Content Creation**: Create valuable content
 - **Development**: Contribute to platform development
@@ -161,7 +161,7 @@ You can contribute to DEXGO through:
 ## Privacy and Security
 
 ### How is my data protected?
-DEXGO protects your data through:
+DecNect protects your data through:
 - **Encryption**: All data encrypted in transit and at rest
 - **Privacy Controls**: Granular privacy controls
 - **Data Minimization**: Collection of only necessary data
@@ -174,8 +174,8 @@ Yes, you can:
 - **Privacy Settings**: Control what data is shared
 - **Data Portability**: Port your data to other platforms
 
-### Is DEXGO compliant with regulations?
-DEXGO is compliant with:
+### Is DecNect compliant with regulations?
+DecNect is compliant with:
 - **GDPR**: General Data Protection Regulation
 - **CCPA**: California Consumer Privacy Act
 - **PIPEDA**: Personal Information Protection and Electronic Documents Act
@@ -183,25 +183,25 @@ DEXGO is compliant with:
 
 ## Business and Enterprise
 
-### Does DEXGO offer enterprise solutions?
-Yes, DEXGO offers:
+### Does DecNect offer enterprise solutions?
+Yes, DecNect offers:
 - **Enterprise Plans**: Enterprise-level plans
 - **Custom Development**: Custom development services
 - **API Access**: Enterprise API access
 - **Dedicated Support**: Dedicated enterprise support
 
-### How can my project integrate with DEXGO?
-Projects can integrate with DEXGO through:
-- **API Integration**: Use DEXGO APIs
-- **SDK Integration**: Use DEXGO SDKs
+### How can my project integrate with DecNect?
+Projects can integrate with DecNect through:
+- **API Integration**: Use DecNect APIs
+- **SDK Integration**: Use DecNect SDKs
 - **Custom Development**: Custom integration development
 - **Partnership Programs**: Strategic partnership programs
 
 ### What are the pricing options?
-DEXGO offers flexible pricing:
+DecNect offers flexible pricing:
 - **Free Tier**: Basic features for free
-- **Pro Tier**: Premium features for $100 DEXGO/month
-- **Enterprise Tier**: Enterprise features for $500 DEXGO/month
+- **Pro Tier**: Premium features for $100 DecNect/month
+- **Enterprise Tier**: Enterprise features for $500 DecNect/month
 - **Custom Pricing**: Custom pricing for large organizations
 
 ## Future Development
@@ -215,7 +215,7 @@ Upcoming features include:
 
 ### How can I stay updated?
 Stay updated through:
-- **Official Channels**: Follow official DEXGO channels
+- **Official Channels**: Follow official DecNect channels
 - **Community Updates**: Community update announcements
 - **Newsletter**: Subscribe to our newsletter
 - **Blog**: Read our blog for updates
@@ -245,4 +245,4 @@ Additional resources:
 
 ---
 
-*Ready to explore contact information? Continue to the next section to learn how to get in touch with the DEXGO team.*
+*Ready to explore contact information? Continue to the next section to learn how to get in touch with the DecNect team.*

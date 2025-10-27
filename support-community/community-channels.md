@@ -71,7 +71,7 @@ Our community is built on the principles of:
 - **Regional Groups**: Language-specific regional groups
 
 ### Reddit Community
-- **Subreddit**: r/DEXGO
+- **Subreddit**: r/DecNect
 - **Members**: 15,000+ subscribers
 - **Availability**: 24/7
 - **Languages**: English, Spanish, French, German
@@ -101,7 +101,7 @@ Our community is built on the principles of:
 - **Link**: https://www.linkedin.com/company/decnect/
 
 ### YouTube
-- **Channel**: DEXGO Official
+- **Channel**: DecNect Official
 - **Subscribers**: 10,000+ subscribers
 - **Content**: Tutorials, webinars, platform demos, community events
 - **Engagement**: Video comments, live streams, community interactions
@@ -191,7 +191,7 @@ Our community is built on the principles of:
 - **Weekly AMAs**: Weekly Ask Me Anything sessions
 - **Monthly Webinars**: Educational webinars and workshops
 - **Quarterly Meetups**: In-person and virtual meetups
-- **Annual Conferences**: Annual DEXGO conferences
+- **Annual Conferences**: Annual DecNect conferences
 
 ### Special Events
 - **Hackathons**: Regular hackathons and coding competitions
@@ -234,7 +234,7 @@ const eventCalendar = {
 ### Community Rules
 1. **No Spam**: No spam or promotional content
 2. **No Harassment**: No harassment or bullying
-3. **Stay On Topic**: Keep discussions relevant to DEXGO
+3. **Stay On Topic**: Keep discussions relevant to DecNect
 4. **Respect Privacy**: Respect member privacy and confidentiality
 
 ### Moderation
@@ -288,7 +288,7 @@ const eventCalendar = {
 ### How to Join
 1. **Choose Platform**: Choose your preferred community platform
 2. **Create Account**: Create account on the platform
-3. **Join Community**: Join the DEXGO community
+3. **Join Community**: Join the DecNect community
 4. **Introduce Yourself**: Introduce yourself to the community
 5. **Start Participating**: Start participating in discussions
 
@@ -326,4 +326,4 @@ const eventCalendar = {
 
 ---
 
-*This completes the DEXGO GitBook documentation! The comprehensive guide covers all aspects of the platform from introduction to community support.*
+*This completes the DecNect GitBook documentation! The comprehensive guide covers all aspects of the platform from introduction to community support.*

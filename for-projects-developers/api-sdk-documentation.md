@@ -1,24 +1,24 @@
 # API & SDK Documentation
 
-DEXGO's comprehensive API and SDK documentation provides developers with everything they need to build powerful Web3 applications with integrated AI capabilities. Our documentation covers all aspects of the platform, from basic authentication to advanced AI features, with detailed examples and best practices.
+DecNect's comprehensive API and SDK documentation provides developers with everything they need to build powerful Web3 applications with integrated AI capabilities. Our documentation covers all aspects of the platform, from basic authentication to advanced AI features, with detailed examples and best practices.
 
 ## API Overview
 
 ### REST API
-- **Base URL**: `https://api.dexgo.com/v1`
+- **Base URL**: `https://api.DecNect.com/v1`
 - **Authentication**: Bearer token authentication
 - **Rate Limiting**: 1000 requests per hour per API key
 - **Response Format**: JSON responses with consistent error handling
 - **Versioning**: API versioning with backward compatibility
 
 ### GraphQL API
-- **Endpoint**: `https://api.dexgo.com/graphql`
+- **Endpoint**: `https://api.DecNect.com/graphql`
 - **Real-Time Subscriptions**: WebSocket support for real-time data
 - **Schema Introspection**: Full schema introspection available
 - **Query Optimization**: Automatic query optimization and caching
 
 ### WebSocket API
-- **Endpoint**: `wss://api.dexgo.com/ws`
+- **Endpoint**: `wss://api.DecNect.com/ws`
 - **Real-Time Updates**: Real-time updates for all platform events
 - **Connection Management**: Automatic reconnection and heartbeat
 - **Message Format**: JSON message format with type safety
@@ -34,7 +34,7 @@ const headers = {
   'Content-Type': 'application/json'
 };
 
-fetch('https://api.dexgo.com/v1/user/profile', {
+fetch('https://api.DecNect.com/v1/user/profile', {
   headers: headers
 })
 .then(response => response.json())
@@ -51,7 +51,7 @@ const oauthConfig = {
 };
 
 // Redirect to authorization URL
-const authUrl = `https://api.dexgo.com/oauth/authorize?` +
+const authUrl = `https://api.DecNect.com/oauth/authorize?` +
   `client_id=${oauthConfig.clientId}&` +
   `redirect_uri=${oauthConfig.redirectUri}&` +
   `scope=${oauthConfig.scope}&` +
@@ -63,9 +63,9 @@ window.location.href = authUrl;
 ### Web3 Wallet Authentication
 ```javascript
 // Web3 wallet authentication
-import { DEXGOAuth } from '@dexgo/sdk';
+import { DecNectAuth } from '@DecNect/sdk';
 
-const auth = new DEXGOAuth({
+const auth = new DecNectAuth({
   network: 'ethereum',
   rpcUrl: 'https://mainnet.infura.io/v3/your-project-id'
 });
@@ -74,7 +74,7 @@ const auth = new DEXGOAuth({
 const wallet = await auth.connectWallet();
 
 // Sign message for authentication
-const signature = await wallet.signMessage('Authenticate with DEXGO');
+const signature = await wallet.signMessage('Authenticate with DecNect');
 
 // Authenticate with signature
 const token = await auth.authenticate(signature);
@@ -178,7 +178,7 @@ const batchTranslation = await fetch('/api/v1/ai/translate/batch', {
   method: 'POST',
   headers: { 'Authorization': `Bearer ${token}` },
   body: JSON.stringify({
-    texts: ['Hello', 'World', 'DEXGO'],
+    texts: ['Hello', 'World', 'DecNect'],
     sourceLanguage: 'en',
     targetLanguage: 'fr'
   })
@@ -322,13 +322,13 @@ const transfer = await fetch('/api/v1/nft/transfer', {
 
 ### JavaScript SDK
 ```bash
-npm install @dexgo/sdk
+npm install @DecNect/sdk
 ```
 
 ```javascript
-import { DEXGOClient } from '@dexgo/sdk';
+import { DecNectClient } from '@DecNect/sdk';
 
-const client = new DEXGOClient({
+const client = new DecNectClient({
   apiKey: 'your-api-key',
   network: 'ethereum'
 });
@@ -354,13 +354,13 @@ const translation = await client.ai.translate({
 
 ### Python SDK
 ```bash
-pip install dexgo-sdk
+pip install DecNect-sdk
 ```
 
 ```python
-from dexgo import DEXGOClient
+from DecNect import DecNectClient
 
-client = DEXGOClient(
+client = DecNectClient(
     api_key='your-api-key',
     network='ethereum'
 )
@@ -386,16 +386,16 @@ translation = client.ai.translate(
 
 ### React Components
 ```bash
-npm install @dexgo/react-components
+npm install @DecNect/react-components
 ```
 
 ```jsx
 import React from 'react';
-import { DEXGOProvider, ChatComponent, AIAssistant } from '@dexgo/react-components';
+import { DecNectProvider, ChatComponent, AIAssistant } from '@DecNect/react-components';
 
 function App() {
   return (
-    <DEXGOProvider apiKey="your-api-key">
+    <DecNectProvider apiKey="your-api-key">
       <div>
         <ChatComponent 
           communityId="123"
@@ -405,7 +405,7 @@ function App() {
           onResponse={(response) => console.log(response)}
         />
       </div>
-    </DEXGOProvider>
+    </DecNectProvider>
   );
 }
 ```
@@ -532,7 +532,7 @@ function verifyWebhook(payload, signature, secret) {
 ## Testing
 
 ### Test Environment
-- **Base URL**: `https://api-test.dexgo.com/v1`
+- **Base URL**: `https://api-test.DecNect.com/v1`
 - **Test API Key**: Use test API keys for development
 - **Mock Data**: Mock data for testing scenarios
 
@@ -581,4 +581,4 @@ const testMessage = await fetch('/api/v1/test/messages', {
 
 ---
 
-*Ready to explore setting up a project space? Continue to the next section to learn about DEXGO's project management tools.*
+*Ready to explore setting up a project space? Continue to the next section to learn about DecNect's project management tools.*

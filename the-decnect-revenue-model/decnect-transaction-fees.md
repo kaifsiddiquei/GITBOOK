@@ -1,13 +1,13 @@
-# $DEXGO Transaction Fees
+# $DecNect Transaction Fees
 
-DEXGO's transaction fee structure is designed to create a sustainable revenue model while providing value to users through reduced fees when paying with $DEXGO tokens. Our fee system incentivizes token usage while maintaining competitive rates for all users.
+DecNect's transaction fee structure is designed to create a sustainable revenue model while providing value to users through reduced fees when paying with $DecNect tokens. Our fee system incentivizes token usage while maintaining competitive rates for all users.
 
 ## Fee Structure Overview
 
 ### Base Transaction Fees
 - **Standard Transactions**: 0.5% fee for standard transactions
 - **Premium Transactions**: 0.3% fee for premium users
-- **$DEXGO Payment**: 0.1% fee when paying with $DEXGO tokens
+- **$DecNect Payment**: 0.1% fee when paying with $DecNect tokens
 - **Volume Discounts**: Reduced fees for high-volume users
 
 ### Fee Categories
@@ -16,20 +16,20 @@ DEXGO's transaction fee structure is designed to create a sustainable revenue mo
 const feeStructure = {
   standard: {
     rate: '0.5%',
-    minimum: '0.01 DEXGO',
-    maximum: '100 DEXGO'
+    minimum: '0.01 DecNect',
+    maximum: '100 DecNect'
   },
   premium: {
     rate: '0.3%',
-    minimum: '0.01 DEXGO',
-    maximum: '100 DEXGO',
-    requirements: ['premium_subscription', '1000+ DEXGO_stake']
+    minimum: '0.01 DecNect',
+    maximum: '100 DecNect',
+    requirements: ['premium_subscription', '1000+ DecNect_stake']
   },
-  dexgoPayment: {
+  DecNectPayment: {
     rate: '0.1%',
-    minimum: '0.01 DEXGO',
-    maximum: '100 DEXGO',
-    requirements: ['pay_with_DEXGO']
+    minimum: '0.01 DecNect',
+    maximum: '100 DecNect',
+    requirements: ['pay_with_DecNect']
   }
 };
 ```
@@ -48,17 +48,17 @@ const feeStructure = {
 const crossChainFees = {
   ethereum: {
     baseFee: '0.5%',
-    dexgoDiscount: '0.1%',
+    DecNectDiscount: '0.1%',
     gasOptimization: 'included'
   },
   polygon: {
     baseFee: '0.3%',
-    dexgoDiscount: '0.1%',
+    DecNectDiscount: '0.1%',
     gasOptimization: 'included'
   },
   bsc: {
     baseFee: '0.4%',
-    dexgoDiscount: '0.1%',
+    DecNectDiscount: '0.1%',
     gasOptimization: 'included'
   }
 };
@@ -84,8 +84,8 @@ const calculateFee = (transactionAmount, userTier, paymentMethod) => {
   }
   
   // Apply payment method discounts
-  if (paymentMethod === 'DEXGO') {
-    baseRate = 0.001; // 0.1% for DEXGO payments
+  if (paymentMethod === 'DecNect') {
+    baseRate = 0.001; // 0.1% for DecNect payments
   }
   
   // Apply volume discounts
@@ -111,10 +111,10 @@ const calculateFee = (transactionAmount, userTier, paymentMethod) => {
 ```javascript
 // Staking-based discounts
 const stakingDiscounts = {
-  '100-999 DEXGO': '5%',
-  '1000-9999 DEXGO': '10%',
-  '10000-99999 DEXGO': '15%',
-  '100000+ DEXGO': '20%'
+  '100-999 DecNect': '5%',
+  '1000-9999 DecNect': '10%',
+  '10000-99999 DecNect': '15%',
+  '100000+ DecNect': '20%'
 };
 ```
 
@@ -174,7 +174,7 @@ const optimizeTransaction = async (transaction) => {
 ```
 
 ### Fee Minimization Strategies
-- **Payment Method**: Use $DEXGO for payments
+- **Payment Method**: Use $DecNect for payments
 - **Volume Accumulation**: Accumulate volume for discounts
 - **Staking Participation**: Stake tokens for discounts
 - **Batch Operations**: Use batch operations when possible
@@ -191,18 +191,18 @@ const optimizeTransaction = async (transaction) => {
 ```javascript
 // Fee reporting
 const feeReport = {
-  totalFees: '1000 DEXGO',
+  totalFees: '1000 DecNect',
   feeBreakdown: {
-    platformFees: '400 DEXGO',
-    buybackFees: '300 DEXGO',
-    communityFees: '200 DEXGO',
-    reserveFees: '100 DEXGO'
+    platformFees: '400 DecNect',
+    buybackFees: '300 DecNect',
+    communityFees: '200 DecNect',
+    reserveFees: '100 DecNect'
   },
-  userSavings: '500 DEXGO',
+  userSavings: '500 DecNect',
   savingsBreakdown: {
-    dexgoPayment: '300 DEXGO',
-    volumeDiscount: '150 DEXGO',
-    stakingDiscount: '50 DEXGO'
+    DecNectPayment: '300 DecNect',
+    volumeDiscount: '150 DecNect',
+    stakingDiscount: '50 DecNect'
   }
 };
 ```
@@ -227,10 +227,10 @@ const feeReport = {
 ```javascript
 // Fee comparison with competitors
 const feeComparison = {
-  dexgo: {
+  DecNect: {
     standard: '0.5%',
     premium: '0.3%',
-    dexgoPayment: '0.1%'
+    DecNectPayment: '0.1%'
   },
   competitor1: {
     standard: '0.75%',
@@ -283,17 +283,17 @@ const processFee = async (transaction, fee) => {
 ```javascript
 // Fee analytics dashboard
 const feeAnalytics = {
-  totalFees: '10000 DEXGO',
+  totalFees: '10000 DecNect',
   feeTrends: {
-    daily: '100 DEXGO',
-    weekly: '700 DEXGO',
-    monthly: '3000 DEXGO'
+    daily: '100 DecNect',
+    weekly: '700 DecNect',
+    monthly: '3000 DecNect'
   },
-  userSavings: '5000 DEXGO',
+  userSavings: '5000 DecNect',
   savingsTrends: {
-    dexgoPayment: '3000 DEXGO',
-    volumeDiscount: '1500 DEXGO',
-    stakingDiscount: '500 DEXGO'
+    DecNectPayment: '3000 DecNect',
+    volumeDiscount: '1500 DecNect',
+    stakingDiscount: '500 DecNect'
   }
 };
 ```
@@ -307,7 +307,7 @@ const feeAnalytics = {
 ## Best Practices
 
 ### Fee Optimization
-- **Payment Method**: Use $DEXGO for payments
+- **Payment Method**: Use $DecNect for payments
 - **Volume Planning**: Plan transactions for volume discounts
 - **Staking Strategy**: Stake tokens for discounts
 - **Batch Operations**: Use batch operations
@@ -341,4 +341,4 @@ const feeAnalytics = {
 
 ---
 
-*Ready to explore platform-generated revenue streams? Continue to the next section to learn about DEXGO's diverse revenue sources.*
+*Ready to explore platform-generated revenue streams? Continue to the next section to learn about DecNect's diverse revenue sources.*

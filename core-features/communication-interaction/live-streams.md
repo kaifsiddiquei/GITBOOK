@@ -1,6 +1,6 @@
 # Live Streams
 
-DEXGO's live streaming capabilities bring your Web3 community together through high-quality, interactive live content. Whether you're hosting educational sessions, community events, product launches, or entertainment content, our platform provides the tools you need to create engaging live experiences with AI-enhanced features.
+DecNect's live streaming capabilities bring your Web3 community together through high-quality, interactive live content. Whether you're hosting educational sessions, community events, product launches, or entertainment content, our platform provides the tools you need to create engaging live experiences with AI-enhanced features.
 
 ## Live Streaming Features
 
@@ -137,7 +137,7 @@ DEXGO's live streaming capabilities bring your Web3 community together through h
 - **Donation Alerts**: Visual and audio alerts for donations
 
 ### Token Integration
-- **$DEXGO Payments**: Accept payments in $DEXGO tokens
+- **$DecNect Payments**: Accept payments in $DecNect tokens
 - **NFT Rewards**: Reward viewers with exclusive NFTs
 - **Token Gating**: Restrict content access based on token holdings
 - **Staking Rewards**: Reward long-term supporters with staking benefits
@@ -232,4 +232,4 @@ DEXGO's live streaming capabilities bring your Web3 community together through h
 
 ---
 
-*Ready to explore AI-powered features? Continue to the next section to learn about DEXGO's advanced AI capabilities.*
+*Ready to explore AI-powered features? Continue to the next section to learn about DecNect's advanced AI capabilities.*

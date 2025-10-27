@@ -1,6 +1,6 @@
 # Meetings & Group Calls
 
-DEXGO's meeting and group call features provide high-quality, AI-enhanced communication experiences designed specifically for Web3 communities. Whether you're hosting team meetings, community gatherings, or educational sessions, our platform offers advanced features that make every interaction more effective and engaging.
+DecNect's meeting and group call features provide high-quality, AI-enhanced communication experiences designed specifically for Web3 communities. Whether you're hosting team meetings, community gatherings, or educational sessions, our platform offers advanced features that make every interaction more effective and engaging.
 
 ## Core Meeting Features
 

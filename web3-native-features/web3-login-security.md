@@ -230,4 +230,4 @@ Traditional authentication systems have fundamental security and privacy flaws:
 
 ---
 
-*Ready to explore the built-in Web3 wallet? Continue to the next section to learn about DEXGO's integrated wallet functionality.*
+*Ready to explore the built-in Web3 wallet? Continue to the next section to learn about DecNect's integrated wallet functionality.*

@@ -1,6 +1,6 @@
-# $DEXGO Token Utility
+# $DecNect Token Utility
 
-The $DEXGO token serves as the backbone of the DEXGO ecosystem, providing multiple utility functions that enhance user experience, enable governance participation, and create economic incentives for platform growth. This comprehensive guide explores all the ways $DEXGO tokens can be used within the platform.
+The $DecNect token serves as the backbone of the DecNect ecosystem, providing multiple utility functions that enhance user experience, enable governance participation, and create economic incentives for platform growth. This comprehensive guide explores all the ways $DecNect tokens can be used within the platform.
 
 ## Core Utility Functions
 
@@ -11,7 +11,7 @@ The $DEXGO token serves as the backbone of the DEXGO ecosystem, providing multip
 - **Priority Support**: Priority customer support and assistance
 
 ### Transaction Fee Payment
-- **Reduced Fees**: Reduced transaction fees when paying with $DEXGO
+- **Reduced Fees**: Reduced transaction fees when paying with $DecNect
 - **Gas Optimization**: Gas optimization for blockchain transactions
 - **Cross-Chain Transactions**: Payment for cross-chain transaction services
 - **Smart Contract Interactions**: Payment for smart contract interactions
@@ -26,7 +26,7 @@ The $DEXGO token serves as the backbone of the DEXGO ecosystem, providing multip
 
 ### Translation Services
 ```javascript
-// Pay for translation services with $DEXGO
+// Pay for translation services with $DecNect
 const translation = await fetch('/api/v1/ai/translate', {
   method: 'POST',
   headers: { 'Authorization': `Bearer ${token}` },
@@ -34,8 +34,8 @@ const translation = await fetch('/api/v1/ai/translate', {
     text: 'Hello, world!',
     sourceLanguage: 'en',
     targetLanguage: 'es',
-    paymentMethod: 'DEXGO',
-    amount: '10' // 10 $DEXGO tokens
+    paymentMethod: 'DecNect',
+    amount: '10' // 10 $DecNect tokens
   })
 });
 ```
@@ -56,7 +56,7 @@ const translation = await fetch('/api/v1/ai/translate', {
 
 ### DeFi Integration
 ```javascript
-// Use $DEXGO for DeFi services
+// Use $DecNect for DeFi services
 const defiService = await fetch('/api/v1/defi/execute', {
   method: 'POST',
   headers: { 'Authorization': `Bearer ${token}` },
@@ -68,20 +68,20 @@ const defiService = await fetch('/api/v1/defi/execute', {
       tokenOut: 'USDC',
       amount: '1.0'
     },
-    paymentMethod: 'DEXGO',
-    fee: '5' // 5 $DEXGO tokens
+    paymentMethod: 'DecNect',
+    fee: '5' // 5 $DecNect tokens
   })
 });
 ```
 
 ### NFT Services
-- **NFT Creation**: Create NFTs using $DEXGO tokens
+- **NFT Creation**: Create NFTs using $DecNect tokens
 - **NFT Marketplace**: Access to NFT marketplace features
 - **NFT Analytics**: NFT analytics and insights
 - **NFT Automation**: Automated NFT management
 
 ### Staking Services
-- **Platform Staking**: Stake $DEXGO tokens for rewards
+- **Platform Staking**: Stake $DecNect tokens for rewards
 - **Liquidity Provision**: Provide liquidity and earn rewards
 - **Validator Staking**: Stake tokens with network validators
 - **Governance Staking**: Stake tokens for enhanced governance rights
@@ -96,7 +96,7 @@ const defiService = await fetch('/api/v1/defi/execute', {
 
 ### Content Creation Rewards
 ```javascript
-// Earn $DEXGO for content creation
+// Earn $DecNect for content creation
 const contentReward = await fetch('/api/v1/content/reward', {
   method: 'POST',
   headers: { 'Authorization': `Bearer ${token}` },
@@ -105,7 +105,7 @@ const contentReward = await fetch('/api/v1/content/reward', {
     type: 'article',
     quality: 'high',
     engagement: 'high',
-    reward: '50' // 50 $DEXGO tokens
+    reward: '50' // 50 $DecNect tokens
   })
 });
 ```
@@ -134,7 +134,7 @@ const proposal = await fetch('/api/v1/governance/proposals', {
     title: 'Add New AI Feature',
     description: 'Proposal to add new AI feature to platform',
     type: 'feature_request',
-    stake: '1000', // 1000 $DEXGO tokens
+    stake: '1000', // 1000 $DecNect tokens
     duration: '7d'
   })
 });
@@ -170,12 +170,12 @@ const proposal = await fetch('/api/v1/governance/proposals', {
 
 ### Platform Staking
 ```javascript
-// Stake $DEXGO tokens
+// Stake $DecNect tokens
 const staking = await fetch('/api/v1/staking/stake', {
   method: 'POST',
   headers: { 'Authorization': `Bearer ${token}` },
   body: JSON.stringify({
-    amount: '1000', // 1000 $DEXGO tokens
+    amount: '1000', // 1000 $DecNect tokens
     duration: '30d', // 30 days
     stakingPool: 'platform'
   })
@@ -218,50 +218,50 @@ const staking = await fetch('/api/v1/staking/stake', {
 
 ### Content Creator
 ```javascript
-// Content creator earning $DEXGO
+// Content creator earning $DecNect
 const creatorEarnings = {
-  contentCreation: '100', // 100 $DEXGO per article
-  communityEngagement: '50', // 50 $DEXGO for engagement
-  referralRewards: '25', // 25 $DEXGO for referrals
-  stakingRewards: '10', // 10 $DEXGO from staking
-  totalMonthly: '1850' // 1850 $DEXGO per month
+  contentCreation: '100', // 100 $DecNect per article
+  communityEngagement: '50', // 50 $DecNect for engagement
+  referralRewards: '25', // 25 $DecNect for referrals
+  stakingRewards: '10', // 10 $DecNect from staking
+  totalMonthly: '1850' // 1850 $DecNect per month
 };
 ```
 
 ### DeFi User
 ```javascript
-// DeFi user using $DEXGO
+// DeFi user using $DecNect
 const defiUsage = {
-  transactionFees: '5', // 5 $DEXGO per transaction
-  aiAnalytics: '20', // 20 $DEXGO for AI analytics
-  premiumFeatures: '50', // 50 $DEXGO for premium features
-  governanceVoting: '10', // 10 $DEXGO for governance
-  totalMonthly: '850' // 850 $DEXGO per month
+  transactionFees: '5', // 5 $DecNect per transaction
+  aiAnalytics: '20', // 20 $DecNect for AI analytics
+  premiumFeatures: '50', // 50 $DecNect for premium features
+  governanceVoting: '10', // 10 $DecNect for governance
+  totalMonthly: '850' // 850 $DecNect per month
 };
 ```
 
 ### Community Moderator
 ```javascript
-// Community moderator earning $DEXGO
+// Community moderator earning $DecNect
 const moderatorEarnings = {
-  moderationRewards: '200', // 200 $DEXGO per month
-  communityGrowth: '100', // 100 $DEXGO for growth
-  eventHosting: '150', // 150 $DEXGO for events
-  mentorship: '75', // 75 $DEXGO for mentorship
-  totalMonthly: '525' // 525 $DEXGO per month
+  moderationRewards: '200', // 200 $DecNect per month
+  communityGrowth: '100', // 100 $DecNect for growth
+  eventHosting: '150', // 150 $DecNect for events
+  mentorship: '75', // 75 $DecNect for mentorship
+  totalMonthly: '525' // 525 $DecNect per month
 };
 ```
 
 ## Integration with External Services
 
 ### Payment Integration
-- **Merchant Services**: Use $DEXGO for merchant services
+- **Merchant Services**: Use $DecNect for merchant services
 - **Subscription Services**: Pay for subscription services
 - **API Access**: Pay for API access and usage
 - **Third-Party Services**: Pay for third-party services
 
 ### Cross-Platform Utility
-- **Partner Platforms**: Use $DEXGO on partner platforms
+- **Partner Platforms**: Use $DecNect on partner platforms
 - **Ecosystem Integration**: Integration with ecosystem partners
 - **Cross-Chain Utility**: Utility across multiple blockchain networks
 - **Interoperability**: Interoperability with other platforms
@@ -317,4 +317,4 @@ const moderatorEarnings = {
 
 ---
 
-*Ready to explore tokenomics and revenue model? Continue to the next section to learn about the economic structure of the DEXGO ecosystem.*
+*Ready to explore tokenomics and revenue model? Continue to the next section to learn about the economic structure of the DecNect ecosystem.*

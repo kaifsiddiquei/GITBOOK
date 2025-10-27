@@ -1,6 +1,6 @@
 # Customizing Your Experience
 
-DEXGO offers extensive customization options that allow projects and developers to create unique, branded experiences that align with their vision and community needs. From visual branding to functional customization, our platform provides the flexibility to build exactly what you need.
+DecNect offers extensive customization options that allow projects and developers to create unique, branded experiences that align with their vision and community needs. From visual branding to functional customization, our platform provides the flexibility to build exactly what you need.
 
 ## Visual Customization
 
@@ -530,4 +530,4 @@ const workflow = await fetch('/api/v1/projects/123/workflows', {
 
 ---
 
-*Ready to explore the DEXGO token? Continue to the next section to learn about the $DEXGO token and its utility.*
+*Ready to explore the DecNect token? Continue to the next section to learn about the $DecNect token and its utility.*

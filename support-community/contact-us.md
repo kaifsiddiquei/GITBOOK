@@ -1,6 +1,6 @@
 # Contact Us
 
-DEXGO provides multiple channels for users, developers, and partners to get in touch with our team. Whether you need technical support, have business inquiries, or want to provide feedback, we're here to help you succeed on the platform.
+DecNect provides multiple channels for users, developers, and partners to get in touch with our team. Whether you need technical support, have business inquiries, or want to provide feedback, we're here to help you succeed on the platform.
 
 ## Support Channels
 
@@ -45,21 +45,21 @@ DEXGO provides multiple channels for users, developers, and partners to get in t
 ## Community Support
 
 ### Community Forums
-- **Platform**: DEXGO Community Forums
+- **Platform**: DecNect Community Forums
 - **Availability**: 24/7
 - **Response Time**: Community-driven
 - **Languages**: Multiple languages supported
 - **Features**: Discussion threads, polls, announcements
 
 ### Discord Community
-- **Server**: DEXGO Official Discord
+- **Server**: DecNect Official Discord
 - **Availability**: 24/7
 - **Response Time**: Real-time
 - **Languages**: English, Spanish, French, German
 - **Features**: Voice channels, text channels, bots
 
 ### Telegram Group
-- **Group**: DEXGO Official Telegram
+- **Group**: DecNect Official Telegram
 - **Availability**: 24/7
 - **Response Time**: Real-time
 - **Languages**: English, Spanish, French, German
@@ -91,7 +91,7 @@ DEXGO provides multiple channels for users, developers, and partners to get in t
 ## Contact Information
 
 ### Headquarters
-- **Address**: DEXGO Technologies Inc.
+- **Address**: DecNect Technologies Inc.
 - **Location**: San Francisco, CA, USA
 - **Postal Code**: 94105
 - **Country**: United States
@@ -257,4 +257,4 @@ DEXGO provides multiple channels for users, developers, and partners to get in t
 
 ---
 
-*Ready to explore community channels? Continue to the next section to learn about DEXGO's vibrant community ecosystem.*
+*Ready to explore community channels? Continue to the next section to learn about DecNect's vibrant community ecosystem.*

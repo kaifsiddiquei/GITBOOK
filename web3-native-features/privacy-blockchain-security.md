@@ -1,6 +1,6 @@
 # Privacy & Blockchain Security
 
-DEXGO's Privacy & Blockchain Security framework provides comprehensive protection for user data, communications, and transactions while maintaining the transparency and immutability benefits of blockchain technology. Our multi-layered security approach ensures that your privacy is protected without compromising the decentralized nature of the platform.
+DecNect's Privacy & Blockchain Security framework provides comprehensive protection for user data, communications, and transactions while maintaining the transparency and immutability benefits of blockchain technology. Our multi-layered security approach ensures that your privacy is protected without compromising the decentralized nature of the platform.
 
 ## Core Privacy Principles
 
@@ -225,4 +225,4 @@ DEXGO's Privacy & Blockchain Security framework provides comprehensive protectio
 
 ---
 
-*Ready to explore features for projects and developers? Continue to the next section to learn about DEXGO's developer tools and resources.*
+*Ready to explore features for projects and developers? Continue to the next section to learn about DecNect's developer tools and resources.*

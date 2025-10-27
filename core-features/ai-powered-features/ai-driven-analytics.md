@@ -1,6 +1,6 @@
 # AI-Driven Analytics
 
-DEXGO's AI-Driven Analytics transforms raw data into actionable insights, empowering users, communities, and projects to make informed decisions in the Web3 ecosystem. Our advanced analytics platform combines machine learning, natural language processing, and blockchain data analysis to provide comprehensive insights into market trends, community behavior, and platform performance.
+DecNect's AI-Driven Analytics transforms raw data into actionable insights, empowering users, communities, and projects to make informed decisions in the Web3 ecosystem. Our advanced analytics platform combines machine learning, natural language processing, and blockchain data analysis to provide comprehensive insights into market trends, community behavior, and platform performance.
 
 ## Core Analytics Capabilities
 
@@ -205,4 +205,4 @@ DEXGO's AI-Driven Analytics transforms raw data into actionable insights, empowe
 
 ---
 
-*Ready to explore Giveaway Automation? Continue to the next section to learn about DEXGO's automated giveaway system.*
+*Ready to explore Giveaway Automation? Continue to the next section to learn about DecNect's automated giveaway system.*

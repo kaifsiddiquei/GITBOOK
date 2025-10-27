@@ -1,8 +1,8 @@
 # AMA Sessions
 
-Ask Me Anything (AMA) sessions are a cornerstone of Web3 community engagement, and DEXGO provides specialized tools to make these interactive Q&A sessions more effective, engaging, and accessible. Our AI-enhanced AMA platform transforms traditional Q&A into dynamic, multilingual, and intelligent community interactions.
+Ask Me Anything (AMA) sessions are a cornerstone of Web3 community engagement, and DecNect provides specialized tools to make these interactive Q&A sessions more effective, engaging, and accessible. Our AI-enhanced AMA platform transforms traditional Q&A into dynamic, multilingual, and intelligent community interactions.
 
-## What Makes DEXGO AMAs Special?
+## What Makes DecNect AMAs Special?
 
 ### AI-Powered Question Management
 - **Smart Question Categorization**: AI automatically categorizes questions by topic
@@ -206,4 +206,4 @@ Ask Me Anything (AMA) sessions are a cornerstone of Web3 community engagement, a
 
 ---
 
-*Ready to explore live streaming capabilities? Continue to the next section to learn about DEXGO's live streaming features.*
+*Ready to explore live streaming capabilities? Continue to the next section to learn about DecNect's live streaming features.*

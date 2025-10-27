@@ -1,6 +1,6 @@
 # Multi-chain Support
 
-DEXGO's Multi-chain Support provides seamless integration across multiple blockchain networks, enabling users to interact with different ecosystems without the complexity of managing multiple wallets or platforms. Our unified interface abstracts away the technical complexities while maintaining the security and decentralization benefits of each blockchain.
+DecNect's Multi-chain Support provides seamless integration across multiple blockchain networks, enabling users to interact with different ecosystems without the complexity of managing multiple wallets or platforms. Our unified interface abstracts away the technical complexities while maintaining the security and decentralization benefits of each blockchain.
 
 ## Supported Blockchains
 
@@ -225,4 +225,4 @@ DEXGO's Multi-chain Support provides seamless integration across multiple blockc
 
 ---
 
-*Ready to explore privacy and blockchain security? Continue to the next section to learn about DEXGO's comprehensive security measures.*
+*Ready to explore privacy and blockchain security? Continue to the next section to learn about DecNect's comprehensive security measures.*

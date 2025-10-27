@@ -1,11 +1,11 @@
 # Connecting Your Wallet
 
-DEXGO's built-in wallet functionality provides seamless integration with your Web3 assets and transactions. Whether you're managing tokens, participating in DeFi, or engaging with NFT communities, our wallet features make it all accessible within the communication platform.
+DecNect's built-in wallet functionality provides seamless integration with your Web3 assets and transactions. Whether you're managing tokens, participating in DeFi, or engaging with NFT communities, our wallet features make it all accessible within the communication platform.
 
 ## Built-in Wallet Features
 
 ### Multi-Chain Support
-DEXGO's wallet supports multiple blockchain networks:
+DecNect's wallet supports multiple blockchain networks:
 
 - **Ethereum**: Mainnet, Goerli, Sepolia testnets
 - **Polygon**: Mainnet and Mumbai testnet
@@ -24,7 +24,7 @@ DEXGO's wallet supports multiple blockchain networks:
 ## Wallet Connection Methods
 
 ### Method 1: Direct Wallet Connection
-1. Click "Connect Wallet" on the DEXGO platform
+1. Click "Connect Wallet" on the DecNect platform
 2. Select your wallet provider from the list
 3. Authorize the connection in your wallet
 4. Approve the necessary permissions
@@ -156,7 +156,7 @@ DEXGO's wallet supports multiple blockchain networks:
 - **Network Fees**: Consider network fees when making transactions
 - **Timing**: Choose optimal times for transactions to minimize fees
 
-## Integration with DEXGO Features
+## Integration with DecNect Features
 
 ### Communication Integration
 - **Payment in Chats**: Send tokens directly in conversations
@@ -172,4 +172,4 @@ DEXGO's wallet supports multiple blockchain networks:
 
 ---
 
-*Ready to explore DEXGO's communication features? Continue to the next section to learn about meetings and group calls.*
+*Ready to explore DecNect's communication features? Continue to the next section to learn about meetings and group calls.*

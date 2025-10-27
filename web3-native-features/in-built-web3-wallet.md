@@ -1,6 +1,6 @@
 # In-built Web3 Wallet
 
-DEXGO's in-built Web3 wallet provides seamless integration between communication and blockchain functionality, eliminating the need for external wallet applications while maintaining the highest security standards. Our integrated wallet supports multiple blockchain networks, advanced DeFi features, and AI-powered portfolio management.
+DecNect's in-built Web3 wallet provides seamless integration between communication and blockchain functionality, eliminating the need for external wallet applications while maintaining the highest security standards. Our integrated wallet supports multiple blockchain networks, advanced DeFi features, and AI-powered portfolio management.
 
 ## Core Wallet Features
 
@@ -222,4 +222,4 @@ DEXGO's in-built Web3 wallet provides seamless integration between communication
 
 ---
 
-*Ready to explore the reward distribution system? Continue to the next section to learn about DEXGO's innovative reward mechanisms.*
+*Ready to explore the reward distribution system? Continue to the next section to learn about DecNect's innovative reward mechanisms.*

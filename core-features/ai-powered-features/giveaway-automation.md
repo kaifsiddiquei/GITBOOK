@@ -1,6 +1,6 @@
 # Giveaway Automation
 
-DEXGO's Giveaway Automation system revolutionizes community engagement through intelligent, automated giveaway management. Our AI-powered platform streamlines the entire giveaway process, from creation to execution, while ensuring fairness, transparency, and maximum community engagement.
+DecNect's Giveaway Automation system revolutionizes community engagement through intelligent, automated giveaway management. Our AI-powered platform streamlines the entire giveaway process, from creation to execution, while ensuring fairness, transparency, and maximum community engagement.
 
 ## Core Giveaway Features
 
@@ -19,7 +19,7 @@ DEXGO's Giveaway Automation system revolutionizes community engagement through i
 ## Giveaway Types
 
 ### Token Giveaways
-- **$DEXGO Token Rewards**: Giveaways of native platform tokens
+- **$DecNect Token Rewards**: Giveaways of native platform tokens
 - **Custom Token Rewards**: Giveaways of custom project tokens
 - **Multi-Token Rewards**: Giveaways with multiple token types
 - **Staking Rewards**: Rewards for staking and long-term participation
@@ -205,4 +205,4 @@ DEXGO's Giveaway Automation system revolutionizes community engagement through i
 
 ---
 
-*Ready to explore Web3-native features? Continue to the next section to learn about DEXGO's Web3 integration capabilities.*
+*Ready to explore Web3-native features? Continue to the next section to learn about DecNect's Web3 integration capabilities.*

@@ -1,6 +1,6 @@
 # AI Assistant Bot
 
-DEXGO's AI Assistant Bot is your intelligent companion for navigating the Web3 ecosystem. Built specifically for blockchain and DeFi environments, our AI assistant understands the complexities of Web3 and provides personalized, context-aware assistance to help you make the most of your decentralized experience.
+DecNect's AI Assistant Bot is your intelligent companion for navigating the Web3 ecosystem. Built specifically for blockchain and DeFi environments, our AI assistant understands the complexities of Web3 and provides personalized, context-aware assistance to help you make the most of your decentralized experience.
 
 ## Core Capabilities
 
@@ -74,7 +74,7 @@ DEXGO's AI Assistant Bot is your intelligent companion for navigating the Web3 e
 - **Best Practices**: Security best practices and recommendations
 - **Risk Warnings**: Proactive risk warnings and alerts
 
-## Integration with DEXGO Platform
+## Integration with DecNect Platform
 
 ### Communication Integration
 - **Chat Assistance**: AI assistant available in all chat channels
@@ -197,4 +197,4 @@ DEXGO's AI Assistant Bot is your intelligent companion for navigating the Web3 e
 
 ---
 
-*Ready to explore AI-Driven Analytics? Continue to the next section to learn about DEXGO's powerful analytics capabilities.*
+*Ready to explore AI-Driven Analytics? Continue to the next section to learn about DecNect's powerful analytics capabilities.*

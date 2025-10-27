@@ -1,6 +1,6 @@
 # Account Creation (Web3 Login)
 
-Getting started with DEXGO is designed to be intuitive and secure, leveraging Web3 technology to give you complete control over your digital identity. Our Web3 login system eliminates the need for traditional usernames and passwords while providing enhanced security and privacy.
+Getting started with DecNect is designed to be intuitive and secure, leveraging Web3 technology to give you complete control over your digital identity. Our Web3 login system eliminates the need for traditional usernames and passwords while providing enhanced security and privacy.
 
 ## Why Web3 Login?
 
@@ -21,7 +21,7 @@ Getting started with DEXGO is designed to be intuitive and secure, leveraging We
 
 ## Supported Wallets
 
-DEXGO supports a wide range of popular Web3 wallets:
+DecNect supports a wide range of popular Web3 wallets:
 
 ### Browser Extension Wallets
 - **MetaMask**: Most popular Ethereum wallet
@@ -44,7 +44,7 @@ DEXGO supports a wide range of popular Web3 wallets:
 ## Step-by-Step Account Creation
 
 ### Step 1: Connect Your Wallet
-1. Visit the DEXGO platform
+1. Visit the DecNect platform
 2. Click "Connect Wallet" or "Sign In"
 3. Select your preferred wallet from the list
 4. Follow the wallet's connection prompts
@@ -73,7 +73,7 @@ DEXGO supports a wide range of popular Web3 wallets:
 
 ### Account Security
 - **Verify Transactions**: Always verify transaction details before signing
-- **Be Wary of Phishing**: Only connect to official DEXGO domains
+- **Be Wary of Phishing**: Only connect to official DecNect domains
 - **Monitor Activity**: Regularly check your account activity
 - **Use Strong Passwords**: For wallet passwords and device security
 
@@ -126,8 +126,8 @@ Once you've successfully created your account:
 2. **Join Communities**: Find and join communities that interest you
 3. **Customize Settings**: Adjust your preferences and notifications
 4. **Connect Your Wallet**: Learn about wallet management features
-5. **Start Communicating**: Begin using DEXGO's communication features
+5. **Start Communicating**: Begin using DecNect's communication features
 
 ---
 
-*Ready to learn about wallet management? Continue to the next section to explore DEXGO's built-in wallet features.*
+*Ready to learn about wallet management? Continue to the next section to explore DecNect's built-in wallet features.*

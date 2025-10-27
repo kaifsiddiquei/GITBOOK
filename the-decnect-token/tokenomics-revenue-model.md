@@ -1,11 +1,11 @@
 # Tokenomics & Revenue Model
 
-DEXGO's tokenomics and revenue model are designed to create a sustainable, self-reinforcing ecosystem that benefits all participants while ensuring long-term platform growth and stability. This comprehensive analysis covers the economic structure, revenue streams, and token distribution mechanisms.
+DecNect's tokenomics and revenue model are designed to create a sustainable, self-reinforcing ecosystem that benefits all participants while ensuring long-term platform growth and stability. This comprehensive analysis covers the economic structure, revenue streams, and token distribution mechanisms.
 
 ## Tokenomics Overview
 
 ### Token Supply Structure
-- **Total Supply**: 1,000,000,000 $DEXGO tokens
+- **Total Supply**: 1,000,000,000 $DecNect tokens
 - **Circulating Supply**: Gradually increasing through distribution
 - **Locked Supply**: Team and ecosystem tokens with vesting
 - **Burned Supply**: Tokens burned through deflationary mechanisms
@@ -162,10 +162,10 @@ const calculateStakingRewards = (stakedAmount, stakingDuration, apy) => {
 ```javascript
 // Governance proposal costs
 const governanceCosts = {
-  proposalSubmission: '1000', // 1000 $DEXGO tokens
-  voting: '10', // 10 $DEXGO tokens per vote
-  execution: '100', // 100 $DEXGO tokens for execution
-  appeal: '500' // 500 $DEXGO tokens for appeal
+  proposalSubmission: '1000', // 1000 $DecNect tokens
+  voting: '10', // 10 $DecNect tokens per vote
+  execution: '100', // 100 $DecNect tokens for execution
+  appeal: '500' // 500 $DecNect tokens for appeal
 };
 ```
 
@@ -188,7 +188,7 @@ const governanceCosts = {
 // Market making strategy
 const marketMakingStrategy = {
   spread: '0.5%', // 0.5% spread
-  liquidity: '1000000', // 1M $DEXGO tokens
+  liquidity: '1000000', // 1M $DecNect tokens
   rebalance: 'daily', // Daily rebalancing
   profit: '0.1%' // 0.1% profit target
 };
@@ -311,4 +311,4 @@ const performanceMonitoring = {
 
 ---
 
-*Ready to explore how to acquire $DEXGO? Continue to the next section to learn about the various ways to obtain DEXGO tokens.*
+*Ready to explore how to acquire $DecNect? Continue to the next section to learn about the various ways to obtain DecNect tokens.*

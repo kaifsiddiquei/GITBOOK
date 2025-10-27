@@ -4,30 +4,30 @@ The $DECNECT token represents the cornerstone of the DecNect ecosystem, designed
 
 ## Token Overview
 
-### What is $DEXGO?
-$DEXGO is the native utility token of the DEXGO platform, serving multiple functions within the ecosystem:
+### What is $DecNect?
+$DecNect is the native utility token of the DecNect platform, serving multiple functions within the ecosystem:
 - **Platform Utility**: Power transactions, premium features, and platform services
 - **Governance Rights**: Enable community governance and decision-making
 - **Reward Mechanism**: Reward users for participation and contribution
 - **Staking Rewards**: Provide passive income through staking mechanisms
 
 ### Token Specifications
-- **Token Name**: DEXGO
-- **Token Symbol**: $DEXGO
+- **Token Name**: DecNect
+- **Token Symbol**: $DecNect
 - **Token Standard**: ERC-20 (Ethereum) with multi-chain support
-- **Total Supply**: 1,000,000,000 $DEXGO
+- **Total Supply**: 1,000,000,000 $DecNect
 - **Decimals**: 18
 - **Contract Address**: TBD (Will be announced at launch)
 
 ## Token Distribution
 
 ### Allocation Breakdown
-- **Community Rewards**: 40% (400,000,000 $DEXGO)
-- **Team & Advisors**: 20% (200,000,000 $DEXGO)
-- **Ecosystem Development**: 15% (150,000,000 $DEXGO)
-- **Public Sale**: 10% (100,000,000 $DEXGO)
-- **Liquidity Pool**: 10% (100,000,000 $DEXGO)
-- **Reserve Fund**: 5% (50,000,000 $DEXGO)
+- **Community Rewards**: 40% (400,000,000 $DecNect)
+- **Team & Advisors**: 20% (200,000,000 $DecNect)
+- **Ecosystem Development**: 15% (150,000,000 $DecNect)
+- **Public Sale**: 10% (100,000,000 $DecNect)
+- **Liquidity Pool**: 10% (100,000,000 $DecNect)
+- **Reserve Fund**: 5% (50,000,000 $DecNect)
 
 ### Vesting Schedule
 - **Team & Advisors**: 4-year vesting with 1-year cliff
@@ -40,7 +40,7 @@ $DEXGO is the native utility token of the DEXGO platform, serving multiple funct
 
 ### Community Building
 - **Early Adopter Program**: Exclusive benefits for early community members
-- **Referral Rewards**: Earn $DEXGO tokens for referring new users
+- **Referral Rewards**: Earn $DecNect tokens for referring new users
 - **Community Challenges**: Participate in challenges to earn tokens
 - **Beta Testing**: Earn tokens for participating in beta testing
 
@@ -97,13 +97,13 @@ const whitelistRegistration = await fetch('/api/v1/token/whitelist', {
 ## How to Participate
 
 ### Early Adopter Program
-1. **Join Community**: Join DEXGO community channels
+1. **Join Community**: Join DecNect community channels
 2. **Complete Tasks**: Complete community tasks and challenges
 3. **Earn Points**: Earn points for community participation
-4. **Convert Points**: Convert points to $DEXGO tokens at launch
+4. **Convert Points**: Convert points to $DecNect tokens at launch
 
 ### Whitelist Participation
-1. **Register**: Register for whitelist on DEXGO platform
+1. **Register**: Register for whitelist on DecNect platform
 2. **Complete KYC**: Complete Know Your Customer verification
 3. **Verify Wallet**: Verify wallet ownership
 4. **Wait for Launch**: Wait for official launch announcement
@@ -111,8 +111,8 @@ const whitelistRegistration = await fetch('/api/v1/token/whitelist', {
 ### Public Sale Participation
 1. **Prepare Wallet**: Set up compatible wallet
 2. **Fund Wallet**: Fund wallet with ETH or stablecoins
-3. **Connect Wallet**: Connect wallet to DEXGO platform
-4. **Purchase Tokens**: Purchase $DEXGO tokens during sale
+3. **Connect Wallet**: Connect wallet to DecNect platform
+4. **Purchase Tokens**: Purchase $DecNect tokens during sale
 
 ## Token Utility
 
@@ -183,19 +183,19 @@ const whitelistRegistration = await fetch('/api/v1/token/whitelist', {
 ## Getting Started
 
 ### Preparation Steps
-1. **Research**: Research DEXGO platform and token
+1. **Research**: Research DecNect platform and token
 2. **Join Community**: Join community channels and discussions
 3. **Set Up Wallet**: Set up compatible Web3 wallet
 4. **Complete KYC**: Complete KYC verification process
 
 ### Registration Process
-1. **Create Account**: Create DEXGO platform account
+1. **Create Account**: Create DecNect platform account
 2. **Verify Identity**: Complete identity verification
 3. **Connect Wallet**: Connect Web3 wallet to platform
 4. **Register Interest**: Register interest in token launch
 
 ### Stay Informed
-- **Official Channels**: Follow official DEXGO channels
+- **Official Channels**: Follow official DecNect channels
 - **Community Updates**: Stay updated with community announcements
 - **Launch Notifications**: Enable launch notifications
 - **Regular Check-ins**: Regular check-ins with platform updates
@@ -222,4 +222,4 @@ const whitelistRegistration = await fetch('/api/v1/token/whitelist', {
 
 ---
 
-*Ready to explore $DEXGO token utility? Continue to the next section to learn about the specific use cases and benefits of the token.*
+*Ready to explore $DecNect token utility? Continue to the next section to learn about the specific use cases and benefits of the token.*

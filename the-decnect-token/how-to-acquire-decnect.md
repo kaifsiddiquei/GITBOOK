@@ -1,14 +1,14 @@
-# How to Acquire $DEXGO
+# How to Acquire $DecNect
 
-Acquiring $DEXGO tokens is designed to be accessible through multiple channels, ensuring that users, developers, and community members can obtain tokens through various methods that align with their participation level and investment preferences. This comprehensive guide covers all available acquisition methods.
+Acquiring $DecNect tokens is designed to be accessible through multiple channels, ensuring that users, developers, and community members can obtain tokens through various methods that align with their participation level and investment preferences. This comprehensive guide covers all available acquisition methods.
 
 ## Primary Acquisition Methods
 
 ### Public Token Sale
 - **Launch Date**: TBD (To be announced)
 - **Sale Price**: $0.10 per token
-- **Minimum Purchase**: 100 $DEXGO tokens
-- **Maximum Purchase**: 100,000 $DEXGO tokens per user
+- **Minimum Purchase**: 100 $DecNect tokens
+- **Maximum Purchase**: 100,000 $DecNect tokens per user
 - **Accepted Currencies**: ETH, USDC, USDT
 
 ### Exchange Listings
@@ -30,10 +30,10 @@ const earlyAdopterProgram = {
     'Refer new users'
   ],
   rewards: {
-    communityTasks: '10-50 DEXGO per task',
-    betaTesting: '100-500 DEXGO',
-    referrals: '50 DEXGO per referral',
-    totalPotential: '1000+ DEXGO'
+    communityTasks: '10-50 DecNect per task',
+    betaTesting: '100-500 DecNect',
+    referrals: '50 DecNect per referral',
+    totalPotential: '1000+ DecNect'
   }
 };
 ```
@@ -48,24 +48,24 @@ const earlyAdopterProgram = {
 ```javascript
 // Referral program structure
 const referralProgram = {
-  referrerReward: '50 DEXGO',
-  refereeReward: '25 DEXGO',
+  referrerReward: '50 DecNect',
+  refereeReward: '25 DecNect',
   requirements: [
     'Referee must complete KYC',
     'Referee must make first transaction',
     'Referee must be active for 30 days'
   ],
-  maximumRewards: '1000 DEXGO per referrer'
+  maximumRewards: '1000 DecNect per referrer'
 };
 ```
 
 ## Earning Through Participation
 
 ### Platform Usage Rewards
-- **Daily Login**: 1 $DEXGO per day for logging in
-- **Community Participation**: 5-20 $DEXGO for community participation
-- **Content Engagement**: 2-10 $DEXGO for content engagement
-- **Feature Usage**: 1-5 $DEXGO for using platform features
+- **Daily Login**: 1 $DecNect per day for logging in
+- **Community Participation**: 5-20 $DecNect for community participation
+- **Content Engagement**: 2-10 $DecNect for content engagement
+- **Feature Usage**: 1-5 $DecNect for using platform features
 
 ### Content Creation Rewards
 ```javascript
@@ -73,27 +73,27 @@ const referralProgram = {
 const contentRewards = {
   article: {
     quality: 'high',
-    reward: '50-100 DEXGO',
+    reward: '50-100 DecNect',
     requirements: ['original content', 'valuable information', 'community engagement']
   },
   video: {
     quality: 'high',
-    reward: '100-200 DEXGO',
+    reward: '100-200 DecNect',
     requirements: ['educational content', 'good production quality', 'community engagement']
   },
   tutorial: {
     quality: 'high',
-    reward: '75-150 DEXGO',
+    reward: '75-150 DecNect',
     requirements: ['step-by-step guide', 'clear instructions', 'community feedback']
   }
 };
 ```
 
 ### Community Moderation
-- **Moderation Rewards**: 10-50 $DEXGO per moderation action
-- **Community Growth**: 100-500 $DEXGO for community growth
-- **Event Hosting**: 50-200 $DEXGO for hosting events
-- **Mentorship**: 25-100 $DEXGO for mentoring other users
+- **Moderation Rewards**: 10-50 $DecNect per moderation action
+- **Community Growth**: 100-500 $DecNect for community growth
+- **Event Hosting**: 50-200 $DecNect for hosting events
+- **Mentorship**: 25-100 $DecNect for mentoring other users
 
 ## Developer Acquisition Methods
 
@@ -102,35 +102,35 @@ const contentRewards = {
 // Developer reward structure
 const developerRewards = {
   bugReports: {
-    critical: '500-1000 DEXGO',
-    high: '100-500 DEXGO',
-    medium: '50-100 DEXGO',
-    low: '10-50 DEXGO'
+    critical: '500-1000 DecNect',
+    high: '100-500 DecNect',
+    medium: '50-100 DecNect',
+    low: '10-50 DecNect'
   },
   featureDevelopment: {
-    major: '1000-5000 DEXGO',
-    minor: '100-1000 DEXGO',
-    bugfix: '50-500 DEXGO'
+    major: '1000-5000 DecNect',
+    minor: '100-1000 DecNect',
+    bugfix: '50-500 DecNect'
   },
   documentation: {
-    comprehensive: '200-500 DEXGO',
-    basic: '50-200 DEXGO',
-    translation: '25-100 DEXGO'
+    comprehensive: '200-500 DecNect',
+    basic: '50-200 DecNect',
+    translation: '25-100 DecNect'
   }
 };
 ```
 
 ### Bug Bounty Program
-- **Critical Bugs**: 500-1000 $DEXGO rewards
-- **High Priority Bugs**: 100-500 $DEXGO rewards
-- **Medium Priority Bugs**: 50-100 $DEXGO rewards
-- **Low Priority Bugs**: 10-50 $DEXGO rewards
+- **Critical Bugs**: 500-1000 $DecNect rewards
+- **High Priority Bugs**: 100-500 $DecNect rewards
+- **Medium Priority Bugs**: 50-100 $DecNect rewards
+- **Low Priority Bugs**: 10-50 $DecNect rewards
 
 ### Feature Development
-- **Major Features**: 1000-5000 $DEXGO rewards
-- **Minor Features**: 100-1000 $DEXGO rewards
-- **Bug Fixes**: 50-500 $DEXGO rewards
-- **Documentation**: 50-500 $DEXGO rewards
+- **Major Features**: 1000-5000 $DecNect rewards
+- **Minor Features**: 100-1000 $DecNect rewards
+- **Bug Fixes**: 50-500 $DecNect rewards
+- **Documentation**: 50-500 $DecNect rewards
 
 ## Staking and Yield Farming
 
@@ -140,19 +140,19 @@ const developerRewards = {
 const stakingOptions = {
   platform: {
     apy: '5%',
-    minimum: '100 DEXGO',
+    minimum: '100 DecNect',
     duration: '30-365 days',
     rewards: 'daily'
   },
   governance: {
     apy: '3%',
-    minimum: '1000 DEXGO',
+    minimum: '1000 DecNect',
     duration: '90-365 days',
     rewards: 'weekly'
   },
   liquidity: {
     apy: '7%',
-    minimum: '500 DEXGO',
+    minimum: '500 DecNect',
     duration: '30-365 days',
     rewards: 'daily'
   }
@@ -178,17 +178,17 @@ const stakingOptions = {
 // DEX trading options
 const dexTrading = {
   uniswap: {
-    pair: 'DEXGO/ETH',
+    pair: 'DecNect/ETH',
     liquidity: 'high',
     fees: '0.3%'
   },
   sushiswap: {
-    pair: 'DEXGO/ETH',
+    pair: 'DecNect/ETH',
     liquidity: 'medium',
     fees: '0.25%'
   },
   pancakeswap: {
-    pair: 'DEXGO/BNB',
+    pair: 'DecNect/BNB',
     liquidity: 'medium',
     fees: '0.25%'
   }
@@ -328,4 +328,4 @@ const walletRequirements = {
 
 ---
 
-*Ready to explore staking and rewards? Continue to the next section to learn about DEXGO's staking mechanisms and reward systems.*
+*Ready to explore staking and rewards? Continue to the next section to learn about DecNect's staking mechanisms and reward systems.*

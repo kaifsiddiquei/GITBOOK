@@ -1,11 +1,11 @@
 # Setting Up a Project Space
 
-DEXGO's Project Space provides a comprehensive environment for Web3 projects to establish their presence, manage their community, and leverage the platform's AI and Web3 capabilities. This guide will walk you through setting up your project space from initial creation to advanced configuration.
+DecNect's Project Space provides a comprehensive environment for Web3 projects to establish their presence, manage their community, and leverage the platform's AI and Web3 capabilities. This guide will walk you through setting up your project space from initial creation to advanced configuration.
 
 ## Project Space Overview
 
 ### What is a Project Space?
-A Project Space is a dedicated environment within DEXGO that provides:
+A Project Space is a dedicated environment within DecNect that provides:
 - **Community Management**: Tools to build and manage your community
 - **AI Integration**: AI-powered features for enhanced user experience
 - **Web3 Functionality**: Built-in Web3 capabilities and integrations
@@ -22,7 +22,7 @@ A Project Space is a dedicated environment within DEXGO that provides:
 ## Getting Started
 
 ### Prerequisites
-- **DEXGO Account**: Active DEXGO developer account
+- **DecNect Account**: Active DecNect developer account
 - **Project Information**: Basic project information and details
 - **Web3 Wallet**: Connected Web3 wallet for transactions
 - **Domain Verification**: Domain verification for custom branding
@@ -374,4 +374,4 @@ const testEnv = await fetch('/api/v1/projects/123/test', {
 
 ---
 
-*Ready to explore customizing your experience? Continue to the next section to learn about DEXGO's extensive customization options.*
+*Ready to explore customizing your experience? Continue to the next section to learn about DecNect's extensive customization options.*

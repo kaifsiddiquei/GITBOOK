@@ -1,6 +1,6 @@
 # Reward Distribution System
 
-DEXGO's Reward Distribution System revolutionizes community engagement by providing fair, transparent, and automated reward mechanisms that incentivize participation, contribution, and long-term commitment to the platform. Our AI-powered system ensures that rewards are distributed equitably based on merit, engagement, and community value.
+DecNect's Reward Distribution System revolutionizes community engagement by providing fair, transparent, and automated reward mechanisms that incentivize participation, contribution, and long-term commitment to the platform. Our AI-powered system ensures that rewards are distributed equitably based on merit, engagement, and community value.
 
 ## Core Reward Principles
 
@@ -65,7 +65,7 @@ DEXGO's Reward Distribution System revolutionizes community engagement by provid
 ## Reward Mechanisms
 
 ### Token Rewards
-- **$DEXGO Tokens**: Primary reward token
+- **$DecNect Tokens**: Primary reward token
 - **Custom Tokens**: Custom project tokens
 - **Multi-Token Rewards**: Multiple token types
 - **Token Vesting**: Gradual token release over time
@@ -231,4 +231,4 @@ DEXGO's Reward Distribution System revolutionizes community engagement by provid
 
 ---
 
-*Ready to explore multi-chain support? Continue to the next section to learn about DEXGO's cross-chain capabilities.*
+*Ready to explore multi-chain support? Continue to the next section to learn about DecNect's cross-chain capabilities.*

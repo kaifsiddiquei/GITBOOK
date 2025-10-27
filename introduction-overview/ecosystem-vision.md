@@ -19,8 +19,8 @@ The $DECNECT token serves as the economic backbone of our ecosystem:
 - **Governance Rights**: Enabling community-driven decision making
 
 ### Developer Ecosystem
-A thriving community of builders creating value on top of DEXGO:
-- **Third-Party Integrations**: Apps and services built on DEXGO infrastructure
+A thriving community of builders creating value on top of DecNect:
+- **Third-Party Integrations**: Apps and services built on DecNect infrastructure
 - **Custom Solutions**: Tailored implementations for specific use cases
 - **Revenue Sharing**: Developers earn through ecosystem participation
 - **Technical Support**: Comprehensive resources and community support
@@ -118,7 +118,7 @@ A thriving community of builders creating value on top of DEXGO:
 ## 🔮 Long-Term Vision
 
 ### 2030 Goals
-- **Global Platform**: DEXGO as the standard for Web3 communication
+- **Global Platform**: DecNect as the standard for Web3 communication
 - **AI Leadership**: Pioneering AI-Web3 integration technologies
 - **Ecosystem Maturity**: Thriving developer and user community
 - **Industry Impact**: Influencing the evolution of digital communication
@@ -140,7 +140,7 @@ A thriving community of builders creating value on top of DEXGO:
 
 ### Benefits of Participation
 - **Early Access**: Get first access to new features and capabilities
-- **Token Rewards**: Earn $DEXGO tokens through participation
+- **Token Rewards**: Earn $DecNect tokens through participation
 - **Influence**: Help shape the future of the platform
 - **Learning**: Stay at the forefront of AI and Web3 innovation
 - **Networking**: Connect with like-minded innovators and builders
@@ -167,4 +167,4 @@ A thriving community of builders creating value on top of DEXGO:
 
 ---
 
-*Ready to explore the core features that make this vision possible? Continue to the next section to learn about DEXGO's powerful capabilities.*
+*Ready to explore the core features that make this vision possible? Continue to the next section to learn about DecNect's powerful capabilities.*

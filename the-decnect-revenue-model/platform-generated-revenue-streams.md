@@ -1,6 +1,6 @@
 # Platform-Generated Revenue Streams
 
-DEXGO's platform-generated revenue streams create a diversified and sustainable economic model that benefits all ecosystem participants. Our multi-faceted revenue approach ensures platform growth while providing value to users, developers, and the broader community.
+DecNect's platform-generated revenue streams create a diversified and sustainable economic model that benefits all ecosystem participants. Our multi-faceted revenue approach ensures platform growth while providing value to users, developers, and the broader community.
 
 ## Revenue Stream Overview
 
@@ -23,15 +23,15 @@ DEXGO's platform-generated revenue streams create a diversified and sustainable 
 // Premium subscription tiers
 const subscriptionTiers = {
   basic: {
-    price: '0 DEXGO/month',
+    price: '0 DecNect/month',
     features: ['basic_ai', 'standard_support', 'community_access']
   },
   pro: {
-    price: '100 DEXGO/month',
+    price: '100 DecNect/month',
     features: ['advanced_ai', 'priority_support', 'premium_features', 'analytics']
   },
   enterprise: {
-    price: '500 DEXGO/month',
+    price: '500 DecNect/month',
     features: ['enterprise_ai', 'dedicated_support', 'custom_features', 'api_access']
   }
 };
@@ -56,19 +56,19 @@ const subscriptionTiers = {
 // AI service pricing
 const aiServicePricing = {
   translation: {
-    perCharacter: '0.001 DEXGO',
-    perWord: '0.01 DEXGO',
-    perDocument: '0.1 DEXGO'
+    perCharacter: '0.001 DecNect',
+    perWord: '0.01 DecNect',
+    perDocument: '0.1 DecNect'
   },
   analytics: {
-    perAnalysis: '0.5 DEXGO',
-    perReport: '1.0 DEXGO',
-    perDashboard: '2.0 DEXGO'
+    perAnalysis: '0.5 DecNect',
+    perReport: '1.0 DecNect',
+    perDashboard: '2.0 DecNect'
   },
   automation: {
-    perTask: '0.1 DEXGO',
-    perWorkflow: '1.0 DEXGO',
-    perIntegration: '5.0 DEXGO'
+    perTask: '0.1 DecNect',
+    perWorkflow: '1.0 DecNect',
+    perIntegration: '5.0 DecNect'
   }
 };
 ```
@@ -96,12 +96,12 @@ const apiPricing = {
     features: ['basic_api', 'standard_rate_limit']
   },
   developer: {
-    price: '50 DEXGO/month',
+    price: '50 DecNect/month',
     requests: '10000/month',
     features: ['advanced_api', 'higher_rate_limit', 'webhooks']
   },
   enterprise: {
-    price: '500 DEXGO/month',
+    price: '500 DecNect/month',
     requests: 'unlimited',
     features: ['full_api', 'custom_rate_limit', 'dedicated_support']
   }
@@ -193,15 +193,15 @@ const partnershipRevenue = {
 // Integration pricing
 const integrationPricing = {
   basic: {
-    price: '100 DEXGO',
+    price: '100 DecNect',
     features: ['standard_integration', 'basic_support']
   },
   advanced: {
-    price: '500 DEXGO',
+    price: '500 DecNect',
     features: ['custom_integration', 'priority_support', 'custom_features']
   },
   enterprise: {
-    price: '2000 DEXGO',
+    price: '2000 DecNect',
     features: ['full_integration', 'dedicated_support', 'custom_development']
   }
 };
@@ -220,17 +220,17 @@ const integrationPricing = {
 // Development pricing
 const developmentPricing = {
   hourly: {
-    rate: '50 DEXGO/hour',
+    rate: '50 DecNect/hour',
     minimum: '8 hours',
     maximum: '40 hours/week'
   },
   project: {
-    rate: '5000-50000 DEXGO',
+    rate: '5000-50000 DecNect',
     duration: '1-12 weeks',
     deliverables: 'custom_features'
   },
   retainer: {
-    rate: '2000 DEXGO/month',
+    rate: '2000 DecNect/month',
     hours: '40 hours/month',
     support: 'ongoing_support'
   }
@@ -250,17 +250,17 @@ const developmentPricing = {
 // Consulting revenue model
 const consultingRevenue = {
   hourly: {
-    rate: '100 DEXGO/hour',
+    rate: '100 DecNect/hour',
     minimum: '4 hours',
     maximum: '40 hours/week'
   },
   project: {
-    rate: '10000-100000 DEXGO',
+    rate: '10000-100000 DecNect',
     duration: '2-24 weeks',
     deliverables: 'consulting_reports'
   },
   retainer: {
-    rate: '5000 DEXGO/month',
+    rate: '5000 DecNect/month',
     hours: '20 hours/month',
     support: 'ongoing_consulting'
   }
@@ -273,15 +273,15 @@ const consultingRevenue = {
 ```javascript
 // Revenue dashboard
 const revenueDashboard = {
-  totalRevenue: '100000 DEXGO',
+  totalRevenue: '100000 DecNect',
   revenueBreakdown: {
-    subscriptions: '40000 DEXGO',
-    aiServices: '25000 DEXGO',
-    apiUsage: '15000 DEXGO',
-    transactionFees: '10000 DEXGO',
-    partnerships: '5000 DEXGO',
-    integrations: '3000 DEXGO',
-    development: '2000 DEXGO'
+    subscriptions: '40000 DecNect',
+    aiServices: '25000 DecNect',
+    apiUsage: '15000 DecNect',
+    transactionFees: '10000 DecNect',
+    partnerships: '5000 DecNect',
+    integrations: '3000 DecNect',
+    development: '2000 DecNect'
   },
   growthTrends: {
     monthly: '+15%',
@@ -312,17 +312,17 @@ const growthInitiatives = {
   userAcquisition: {
     target: '100000 new_users',
     strategy: 'referral_program',
-    budget: '10000 DEXGO'
+    budget: '10000 DecNect'
   },
   featureDevelopment: {
     target: '10 new_features',
     strategy: 'user_feedback',
-    budget: '50000 DEXGO'
+    budget: '50000 DecNect'
   },
   marketExpansion: {
     target: '5 new_markets',
     strategy: 'partnerships',
-    budget: '25000 DEXGO'
+    budget: '25000 DecNect'
   }
 };
 ```
@@ -371,15 +371,15 @@ const revenueDistribution = {
 // Revenue forecasting model
 const revenueForecast = {
   year1: {
-    target: '10000000 DEXGO',
+    target: '10000000 DecNect',
     breakdown: {
-      subscriptions: '4000000 DEXGO',
-      aiServices: '2500000 DEXGO',
-      apiUsage: '1500000 DEXGO',
-      transactionFees: '1000000 DEXGO',
-      partnerships: '500000 DEXGO',
-      integrations: '300000 DEXGO',
-      development: '200000 DEXGO'
+      subscriptions: '4000000 DecNect',
+      aiServices: '2500000 DecNect',
+      apiUsage: '1500000 DecNect',
+      transactionFees: '1000000 DecNect',
+      partnerships: '500000 DecNect',
+      integrations: '300000 DecNect',
+      development: '200000 DecNect'
     }
   }
 };
@@ -422,4 +422,4 @@ const revenueForecast = {
 
 ---
 
-*Ready to explore support and community? Continue to the next section to learn about DEXGO's comprehensive support system.*
+*Ready to explore support and community? Continue to the next section to learn about DecNect's comprehensive support system.*

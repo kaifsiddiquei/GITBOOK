@@ -1,11 +1,11 @@
 # Staking & Rewards
 
-DEXGO's staking and rewards system provides multiple opportunities for token holders to earn passive income while contributing to the platform's security and governance. Our comprehensive staking ecosystem offers flexible options with competitive rewards and enhanced benefits for participants.
+DecNect's staking and rewards system provides multiple opportunities for token holders to earn passive income while contributing to the platform's security and governance. Our comprehensive staking ecosystem offers flexible options with competitive rewards and enhanced benefits for participants.
 
 ## Staking Overview
 
 ### What is Staking?
-Staking involves locking up $DEXGO tokens to support network operations and earn rewards in return. Stakers contribute to:
+Staking involves locking up $DecNect tokens to support network operations and earn rewards in return. Stakers contribute to:
 - **Network Security**: Enhanced network security through token locking
 - **Governance Participation**: Enhanced governance rights and voting power
 - **Platform Stability**: Increased platform stability and reliability
@@ -24,8 +24,8 @@ Staking involves locking up $DEXGO tokens to support network operations and earn
 // Platform staking configuration
 const platformStaking = {
   apy: '5%',
-  minimumStake: '100 DEXGO',
-  maximumStake: '1000000 DEXGO',
+  minimumStake: '100 DecNect',
+  maximumStake: '1000000 DecNect',
   lockPeriods: ['30d', '90d', '180d', '365d'],
   rewards: {
     frequency: 'daily',
@@ -37,19 +37,19 @@ const platformStaking = {
 
 ### Governance Staking Pool
 - **APY**: 3% annual percentage yield
-- **Minimum Stake**: 1,000 $DEXGO tokens
+- **Minimum Stake**: 1,000 $DecNect tokens
 - **Lock Periods**: 90, 180, 365 days
 - **Governance Rights**: Enhanced voting power and proposal rights
 
 ### Liquidity Staking Pool
 - **APY**: 7% annual percentage yield
-- **Minimum Stake**: 500 $DEXGO tokens
+- **Minimum Stake**: 500 $DecNect tokens
 - **Lock Periods**: 30, 90, 180 days
 - **Liquidity Provision**: Provide liquidity for platform operations
 
 ### Community Staking Pool
 - **APY**: 4% annual percentage yield
-- **Minimum Stake**: 200 $DEXGO tokens
+- **Minimum Stake**: 200 $DecNect tokens
 - **Lock Periods**: 30, 90, 180, 365 days
 - **Community Benefits**: Enhanced community participation rights
 
@@ -145,22 +145,22 @@ const rewardMultipliers = {
 // Multi-tier staking system
 const multiTierStaking = {
   bronze: {
-    minimum: '100 DEXGO',
+    minimum: '100 DecNect',
     apy: '3%',
     benefits: ['basic_rewards', 'community_access']
   },
   silver: {
-    minimum: '1000 DEXGO',
+    minimum: '1000 DecNect',
     apy: '4%',
     benefits: ['enhanced_rewards', 'governance_voting', 'priority_support']
   },
   gold: {
-    minimum: '10000 DEXGO',
+    minimum: '10000 DecNect',
     apy: '5%',
     benefits: ['premium_rewards', 'enhanced_governance', 'exclusive_features']
   },
   platinum: {
-    minimum: '100000 DEXGO',
+    minimum: '100000 DecNect',
     apy: '6%',
     benefits: ['maximum_rewards', 'full_governance', 'vip_features', 'personal_manager']
   }
@@ -178,8 +178,8 @@ const multiTierStaking = {
 // Staking analytics
 const stakingAnalytics = {
   performance: {
-    totalStaked: '1000000 DEXGO',
-    totalRewards: '50000 DEXGO',
+    totalStaked: '1000000 DecNect',
+    totalRewards: '50000 DecNect',
     averageAPY: '5.2%',
     topPerformers: 'top_10_stakers'
   },
@@ -204,15 +204,15 @@ const stakingAnalytics = {
 // Governance participation rewards
 const governanceRewards = {
   voting: {
-    reward: '10 DEXGO per vote',
+    reward: '10 DecNect per vote',
     requirements: ['active_stake', 'governance_participation']
   },
   proposal: {
-    reward: '100 DEXGO per proposal',
+    reward: '100 DecNect per proposal',
     requirements: ['minimum_stake', 'community_support']
   },
   delegation: {
-    reward: '5 DEXGO per delegation',
+    reward: '5 DecNect per delegation',
     requirements: ['active_stake', 'delegation_activity']
   }
 };
@@ -232,15 +232,15 @@ const governanceRewards = {
 const liquidityStaking = {
   pools: [
     {
-      pair: 'DEXGO/ETH',
+      pair: 'DecNect/ETH',
       apy: '8%',
-      liquidity: '500000 DEXGO',
+      liquidity: '500000 DecNect',
       fees: '0.3%'
     },
     {
-      pair: 'DEXGO/USDC',
+      pair: 'DecNect/USDC',
       apy: '6%',
-      liquidity: '300000 DEXGO',
+      liquidity: '300000 DecNect',
       fees: '0.25%'
     }
   ],
@@ -336,23 +336,23 @@ const riskMitigation = {
 // Staking dashboard
 const stakingDashboard = {
   overview: {
-    totalStaked: '10000 DEXGO',
-    totalRewards: '500 DEXGO',
+    totalStaked: '10000 DecNect',
+    totalRewards: '500 DecNect',
     currentAPY: '5.2%',
-    nextReward: '2.5 DEXGO'
+    nextReward: '2.5 DecNect'
   },
   pools: [
     {
       name: 'Platform Pool',
-      staked: '5000 DEXGO',
+      staked: '5000 DecNect',
       apy: '5%',
-      rewards: '250 DEXGO'
+      rewards: '250 DecNect'
     },
     {
       name: 'Governance Pool',
-      staked: '3000 DEXGO',
+      staked: '3000 DecNect',
       apy: '3%',
-      rewards: '90 DEXGO'
+      rewards: '90 DecNect'
     }
   ]
 };
@@ -393,4 +393,4 @@ const stakingDashboard = {
 
 ---
 
-*Ready to explore the DEXGO revenue model? Continue to the next section to learn about the platform's revenue streams and economic structure.*
+*Ready to explore the DecNect revenue model? Continue to the next section to learn about the platform's revenue streams and economic structure.*

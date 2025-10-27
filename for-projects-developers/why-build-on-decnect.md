@@ -1,6 +1,6 @@
-# Why Build on DEXGO?
+# Why Build on DecNect?
 
-DEXGO provides a comprehensive platform for Web3 projects and developers to build, deploy, and scale their applications with integrated AI capabilities, seamless Web3 functionality, and a thriving community ecosystem. Our platform offers unique advantages that make it the ideal choice for next-generation Web3 development.
+DecNect provides a comprehensive platform for Web3 projects and developers to build, deploy, and scale their applications with integrated AI capabilities, seamless Web3 functionality, and a thriving community ecosystem. Our platform offers unique advantages that make it the ideal choice for next-generation Web3 development.
 
 ## Platform Advantages
 
@@ -37,7 +37,7 @@ DEXGO provides a comprehensive platform for Web3 projects and developers to buil
 - **User Acquisition**: Built-in user acquisition through platform
 
 ### Revenue Opportunities
-- **Token Economy**: Participate in the $DEXGO token economy
+- **Token Economy**: Participate in the $DecNect token economy
 - **Revenue Sharing**: Revenue sharing opportunities for developers
 - **Monetization Tools**: Built-in monetization tools and features
 - **Marketplace Integration**: Integration with platform marketplace
@@ -145,7 +145,7 @@ DEXGO provides a comprehensive platform for Web3 projects and developers to buil
 ## Success Stories
 
 ### Project Examples
-- **DeFi Applications**: Successful DeFi applications built on DEXGO
+- **DeFi Applications**: Successful DeFi applications built on DecNect
 - **NFT Platforms**: NFT platforms and marketplaces
 - **Gaming Applications**: Web3 gaming applications
 - **Social Platforms**: Social Web3 platforms
@@ -200,7 +200,7 @@ DEXGO provides a comprehensive platform for Web3 projects and developers to buil
 
 ### Other Web3 Platforms
 - **Feature Comparison**: Feature comparison with other Web3 platforms
-- **Technical Advantages**: Technical advantages of DEXGO
+- **Technical Advantages**: Technical advantages of DecNect
 - **Community Benefits**: Community and ecosystem benefits
 - **Cost Comparison**: Cost comparison and value proposition
 
@@ -220,4 +220,4 @@ DEXGO provides a comprehensive platform for Web3 projects and developers to buil
 
 ---
 
-*Ready to explore API & SDK documentation? Continue to the next section to learn about DEXGO's comprehensive developer tools.*
+*Ready to explore API & SDK documentation? Continue to the next section to learn about DecNect's comprehensive developer tools.*
