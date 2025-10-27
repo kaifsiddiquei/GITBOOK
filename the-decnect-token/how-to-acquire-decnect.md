@@ -22,7 +22,7 @@ Acquiring $DECNECT tokens is designed to be accessible through multiple channels
 
 | **Method** | **Availability** | **Status** | **Details** |
 |------------|------------------|------------|-------------|
-| **Public Sale** | Dec 2025 | ⏳ Scheduled | Direct token purchase |
+| **Public Sale** | Dec 2025 - Jan 2026 | ⏳ Scheduled | Direct token purchase |
 | **Exchange Trading** | Q1 2026 | 📋 Planned | Secondary market trading |
 | **Community Rewards** | Ongoing | 🔄 Active | Earn through participation |
 | **Staking Rewards** | Q1 2026 | 📋 Planned | Earn through staking |
