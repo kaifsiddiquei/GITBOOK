@@ -4,26 +4,22 @@ DecNect provides multiple channels for users, developers, and partners to get in
 
 ## Support Channels
 
-### Technical Support
-- **Email**: support@dexgo.com
+- **Email**: support@decnect.com
 - **Response Time**: 24-48 hours
 - **Availability**: 24/7
 - **Languages**: English, Spanish, French, German, Chinese
 
-### Business Inquiries
-- **Email**: business@dexgo.com
+- **Email**: business@decnect.com
 - **Response Time**: 48-72 hours
 - **Availability**: Business hours (9 AM - 6 PM UTC)
 - **Languages**: English, Spanish, French, German
 
-### Partnership Inquiries
-- **Email**: partnerships@dexgo.com
+- **Email**: partnerships@decnect.com
 - **Response Time**: 72-96 hours
 - **Availability**: Business hours (9 AM - 6 PM UTC)
 - **Languages**: English, Spanish, French, German
 
-### Media Inquiries
-- **Email**: media@dexgo.com
+- **Email**: media@decnect.com
 - **Response Time**: 24-48 hours
 - **Availability**: Business hours (9 AM - 6 PM UTC)
 - **Languages**: English, Spanish, French, German
@@ -67,22 +63,19 @@ DecNect provides multiple channels for users, developers, and partners to get in
 
 ## Specialized Support
 
-### Developer Support
-- **Email**: developers@dexgo.com
+- **Email**: developers@decnect.com
 - **Response Time**: 24-48 hours
 - **Availability**: Business hours (9 AM - 6 PM UTC)
 - **Languages**: English, Spanish, French, German
 - **Features**: Technical documentation, code examples, API support
 
-### Enterprise Support
-- **Email**: enterprise@dexgo.com
+- **Email**: enterprise@decnect.com
 - **Response Time**: 24 hours
 - **Availability**: 24/7
 - **Languages**: English, Spanish, French, German
 - **Features**: Dedicated account manager, priority support, custom solutions
 
-### Security Support
-- **Email**: security@dexgo.com
+- **Email**: security@decnect.com
 - **Response Time**: 24 hours
 - **Availability**: 24/7
 - **Languages**: English, Spanish, French, German
@@ -91,22 +84,9 @@ DecNect provides multiple channels for users, developers, and partners to get in
 ## Contact Information
 
 ### Headquarters
-- **Address**: DecNect Technologies Inc.
-- **Location**: San Francisco, CA, USA
-- **Postal Code**: 94105
-- **Country**: United States
-
-### Regional Offices
-- **Europe**: London, UK
-- **Asia**: Singapore
-- **Latin America**: São Paulo, Brazil
-- **Middle East**: Dubai, UAE
-
-### Phone Numbers
-- **US**: +1 (555) 123-4567
-- **UK**: +44 20 7946 0958
-- **Singapore**: +65 3129 4567
-- **Brazil**: +55 11 3456-7890
+- **Location**: Dubai, UAE
+- **Type**: Decentralized Organization
+- **Focus**: Web3 Communication & AI Innovation
 
 ## Support Categories
 
@@ -173,7 +153,7 @@ DecNect provides multiple channels for users, developers, and partners to get in
 ### Feedback Channels
 - **Feedback Forms**: Online feedback forms
 - **Community Forums**: Community discussion forums
-- **Direct Email**: Direct email to feedback@dexgo.com
+- **Direct Email**: Direct email to feedback@decnect.com
 - **Social Media**: Social media feedback channels
 
 ### Suggestion Process
@@ -191,20 +171,17 @@ DecNect provides multiple channels for users, developers, and partners to get in
 ## Emergency Contacts
 
 ### Security Incidents
-- **Email**: security@dexgo.com
-- **Phone**: +1 (555) 911-SECURITY
+- **Email**: security@decnect.com
 - **Response Time**: Immediate
 - **Availability**: 24/7
 
 ### Platform Outages
-- **Email**: outages@dexgo.com
-- **Phone**: +1 (555) 911-OUTAGE
+- **Email**: outages@decnect.com
 - **Response Time**: Immediate
 - **Availability**: 24/7
 
 ### Legal Issues
-- **Email**: legal@dexgo.com
-- **Phone**: +1 (555) 911-LEGAL
+- **Email**: legal@decnect.com
 - **Response Time**: 24 hours
 - **Availability**: Business hours
 
@@ -228,32 +205,22 @@ DecNect provides multiple channels for users, developers, and partners to get in
 - **Share Solutions**: Share solutions with the community
 - **Stay Engaged**: Stay engaged with the community
 
-## International Support
+## Global Web3 Community
 
 ### Language Support
 - **English**: Primary language
-- **Spanish**: Full support
-- **French**: Full support
-- **German**: Full support
-- **Chinese**: Full support
-- **Japanese**: Full support
-- **Korean**: Full support
+- **Multi-language**: AI-powered translation support for 50+ languages
+- **Community-driven**: Community volunteers provide additional language support
 
-### Time Zone Support
-- **UTC**: Primary time zone
-- **EST**: Eastern Standard Time
-- **PST**: Pacific Standard Time
-- **GMT**: Greenwich Mean Time
-- **JST**: Japan Standard Time
-- **CST**: China Standard Time
+### Time Zone Coverage
+- **UTC**: Primary time zone for global coordination
+- **24/7 Support**: Round-the-clock community and automated support
+- **Decentralized**: Global community across all time zones
 
-### Regional Support
-- **North America**: Full support
-- **Europe**: Full support
-- **Asia**: Full support
-- **Latin America**: Full support
-- **Middle East**: Full support
-- **Africa**: Full support
+### Web3 Ecosystem
+- **Global Reach**: Serving the worldwide Web3 community
+- **Decentralized Operations**: Community-driven support across all regions
+- **Blockchain Native**: Built for the global decentralized ecosystem
 
 ---
 

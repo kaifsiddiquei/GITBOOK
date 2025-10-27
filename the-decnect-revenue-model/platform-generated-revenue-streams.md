@@ -136,7 +136,7 @@ const feeOptimization = {
     baseRate: '0.5%',
     volumeDiscounts: 'up_to_30%',
     stakingDiscounts: 'up_to_20%',
-    dexgoPaymentDiscount: '80%'
+    decnectPaymentDiscount: '80%'
   },
   revenueDistribution: {
     platformOperations: '40%',
